@@ -1,0 +1,1803 @@
+<?xml version='1.0' ?>
+<topicModel>
+  <topic id='0' alpha='0.0072146386943644876' totalTokens='20120'>
+	<word rank='1' count='1694.0'>methylation</word>
+	<word rank='2' count='1203.0'>dna</word>
+	<word rank='3' count='630.0'>epigenetic</word>
+	<word rank='4' count='597.0'>histone</word>
+	<word rank='5' count='510.0'>gene</word>
+	<word rank='6' count='397.0'>chromatin</word>
+	<word rank='7' count='308.0'>expression</word>
+  </topic>
+  <topic id='1' alpha='0.006104943867285631' totalTokens='12783'>
+	<word rank='1' count='945.0'>binding</word>
+	<word rank='2' count='561.0'>sites</word>
+	<word rank='3' count='391.0'>motifs</word>
+	<word rank='4' count='341.0'>motif</word>
+	<word rank='5' count='333.0'>rna</word>
+	<word rank='6' count='308.0'>transcription</word>
+	<word rank='7' count='241.0'>domains</word>
+  </topic>
+  <topic id='2' alpha='0.008970630045578716' totalTokens='16530'>
+	<word rank='1' count='672.0'>compounds</word>
+	<word rank='2' count='366.0'>acid</word>
+	<word rank='3' count='284.0'>compound</word>
+	<word rank='4' count='265.0'>derivatives</word>
+	<word rank='5' count='211.0'>activity</word>
+	<word rank='6' count='205.0'>methyl</word>
+	<word rank='7' count='193.0'>nmr</word>
+  </topic>
+  <topic id='3' alpha='0.013091498449279362' totalTokens='56433'>
+	<word rank='1' count='3100.0'>patients</word>
+	<word rank='2' count='2129.0'>serum</word>
+	<word rank='3' count='1271.0'>healthy</word>
+	<word rank='4' count='1141.0'>biomarkers</word>
+	<word rank='5' count='1017.0'>controls</word>
+	<word rank='6' count='987.0'>samples</word>
+	<word rank='7' count='784.0'>diagnosis</word>
+  </topic>
+  <topic id='4' alpha='0.019386400432631314' totalTokens='46309'>
+	<word rank='1' count='1118.0'>protein</word>
+	<word rank='2' count='803.0'>complex</word>
+	<word rank='3' count='754.0'>yeast</word>
+	<word rank='4' count='691.0'>proteins</word>
+	<word rank='5' count='667.0'>essential</word>
+	<word rank='6' count='635.0'>assembly</word>
+	<word rank='7' count='569.0'>function</word>
+  </topic>
+  <topic id='5' alpha='0.0027716978083232647' totalTokens='9573'>
+	<word rank='1' count='440.0'>aring</word>
+	<word rank='2' count='306.0'>space</word>
+	<word rank='3' count='248.0'>resolution</word>
+	<word rank='4' count='241.0'>crystals</word>
+	<word rank='5' count='238.0'>crystal</word>
+	<word rank='6' count='223.0'>protein</word>
+	<word rank='7' count='215.0'>group</word>
+  </topic>
+  <topic id='6' alpha='0.0023151603250884554' totalTokens='9483'>
+	<word rank='1' count='656.0'>genes</word>
+	<word rank='2' count='542.0'>reference</word>
+	<word rank='3' count='399.0'>expression</word>
+	<word rank='4' count='379.0'>gene</word>
+	<word rank='5' count='182.0'>normalization</word>
+	<word rank='6' count='173.0'>housekeeping</word>
+	<word rank='7' count='172.0'>stable</word>
+  </topic>
+  <topic id='7' alpha='0.011558741703311792' totalTokens='27769'>
+	<word rank='1' count='875.0'>properties</word>
+	<word rank='2' count='745.0'>mechanical</word>
+	<word rank='3' count='626.0'>hydrogel</word>
+	<word rank='4' count='615.0'>strength</word>
+	<word rank='5' count='559.0'>hydrogels</word>
+	<word rank='6' count='445.0'>composite</word>
+	<word rank='7' count='320.0'>materials</word>
+  </topic>
+  <topic id='8' alpha='0.11602836360432563' totalTokens='130419'>
+	<word rank='1' count='3436.0'>high</word>
+	<word rank='2' count='1990.0'>low</word>
+	<word rank='3' count='1441.0'>potential</word>
+	<word rank='4' count='1303.0'>strategy</word>
+	<word rank='5' count='1187.0'>due</word>
+	<word rank='6' count='1136.0'>efficient</word>
+	<word rank='7' count='1127.0'>application</word>
+  </topic>
+  <topic id='9' alpha='0.006395381358310615' totalTokens='7815'>
+	<word rank='1' count='767.0'>springer-verlag</word>
+	<word rank='2' count='705.0'>berlin</word>
+	<word rank='3' count='701.0'>heidelberg</word>
+	<word rank='4' count='282.0'>korean</word>
+	<word rank='5' count='260.0'>bioengineering</word>
+	<word rank='6' count='257.0'>biotechnology</word>
+	<word rank='7' count='244.0'>society</word>
+  </topic>
+  <topic id='10' alpha='0.006525664224447898' totalTokens='16637'>
+	<word rank='1' count='1175.0'>sequencing</word>
+	<word rank='2' count='774.0'>genome</word>
+	<word rank='3' count='467.0'>reads</word>
+	<word rank='4' count='440.0'>data</word>
+	<word rank='5' count='427.0'>sequence</word>
+	<word rank='6' count='374.0'>assembly</word>
+	<word rank='7' count='272.0'>pylori</word>
+  </topic>
+  <topic id='11' alpha='0.016001236669821735' totalTokens='25632'>
+	<word rank='1' count='3142.0'>membrane</word>
+	<word rank='2' count='1078.0'>cell</word>
+	<word rank='3' count='763.0'>proteins</word>
+	<word rank='4' count='599.0'>cells</word>
+	<word rank='5' count='543.0'>protein</word>
+	<word rank='6' count='490.0'>plasma</word>
+	<word rank='7' count='443.0'>membranes</word>
+  </topic>
+  <topic id='12' alpha='0.005170525058032446' totalTokens='11857'>
+	<word rank='1' count='826.0'>channel</word>
+	<word rank='2' count='481.0'>channels</word>
+	<word rank='3' count='246.0'>ion</word>
+	<word rank='4' count='183.0'>expansion</word>
+	<word rank='5' count='153.0'>performance</word>
+	<word rank='6' count='144.0'>proposed</word>
+	<word rank='7' count='135.0'>estimation</word>
+  </topic>
+  <topic id='13' alpha='0.01095403130770399' totalTokens='36583'>
+	<word rank='1' count='1207.0'>proteins</word>
+	<word rank='2' count='780.0'>analysis</word>
+	<word rank='3' count='771.0'>digestion</word>
+	<word rank='4' count='768.0'>separation</word>
+	<word rank='5' count='752.0'>protein</word>
+	<word rank='6' count='732.0'>peptides</word>
+	<word rank='7' count='504.0'>chromatography</word>
+  </topic>
+  <topic id='14' alpha='0.011812642444860386' totalTokens='36059'>
+	<word rank='1' count='1767.0'>production</word>
+	<word rank='2' count='876.0'>pathway</word>
+	<word rank='3' count='857.0'>strain</word>
+	<word rank='4' count='824.0'>biosynthesis</word>
+	<word rank='5' count='635.0'>engineering</word>
+	<word rank='6' count='542.0'>metabolic</word>
+	<word rank='7' count='480.0'>coli</word>
+  </topic>
+  <topic id='15' alpha='0.012521072942453262' totalTokens='31013'>
+	<word rank='1' count='2112.0'>liver</word>
+	<word rank='2' count='1238.0'>mice</word>
+	<word rank='3' count='709.0'>rats</word>
+	<word rank='4' count='550.0'>hepatic</word>
+	<word rank='5' count='546.0'>exposure</word>
+	<word rank='6' count='449.0'>toxicity</word>
+	<word rank='7' count='433.0'>serum</word>
+  </topic>
+  <topic id='16' alpha='0.010489449290988787' totalTokens='24871'>
+	<word rank='1' count='1141.0'>brain</word>
+	<word rank='2' count='562.0'>neurons</word>
+	<word rank='3' count='431.0'>neuronal</word>
+	<word rank='4' count='385.0'>mice</word>
+	<word rank='5' count='317.0'>cortex</word>
+	<word rank='6' count='268.0'>hippocampus</word>
+	<word rank='7' count='235.0'>neural</word>
+  </topic>
+  <topic id='17' alpha='0.015096551073786348' totalTokens='39179'>
+	<word rank='1' count='1851.0'>surface</word>
+	<word rank='2' count='713.0'>surfaces</word>
+	<word rank='3' count='577.0'>biomimetic</word>
+	<word rank='4' count='516.0'>structure</word>
+	<word rank='5' count='509.0'>contact</word>
+	<word rank='6' count='489.0'>adhesion</word>
+	<word rank='7' count='480.0'>force</word>
+  </topic>
+  <topic id='18' alpha='0.017042004453054444' totalTokens='34404'>
+	<word rank='1' count='4213.0'>cells</word>
+	<word rank='2' count='2992.0'>cell</word>
+	<word rank='3' count='1219.0'>culture</word>
+	<word rank='4' count='1082.0'>growth</word>
+	<word rank='5' count='601.0'>cultured</word>
+	<word rank='6' count='524.0'>medium</word>
+	<word rank='7' count='488.0'>proliferation</word>
+  </topic>
+  <topic id='19' alpha='0.0050790707999308115' totalTokens='6910'>
+	<word rank='1' count='616.0'>trans</word>
+	<word rank='2' count='538.0'>publications</word>
+	<word rank='3' count='507.0'>tech</word>
+	<word rank='4' count='460.0'>switzerland</word>
+	<word rank='5' count='137.0'>bionic</word>
+	<word rank='6' count='118.0'>sand</word>
+	<word rank='7' count='86.0'>cis</word>
+  </topic>
+  <topic id='20' alpha='0.0053969184507207425' totalTokens='13338'>
+	<word rank='1' count='931.0'>cotton</word>
+	<word rank='2' count='770.0'>seed</word>
+	<word rank='3' count='537.0'>fiber</word>
+	<word rank='4' count='454.0'>seeds</word>
+	<word rank='5' count='367.0'>germination</word>
+	<word rank='6' count='355.0'>development</word>
+	<word rank='7' count='224.0'>plant</word>
+  </topic>
+  <topic id='21' alpha='0.007519764406657786' totalTokens='26840'>
+	<word rank='1' count='1008.0'>detection</word>
+	<word rank='2' count='805.0'>antibody</word>
+	<word rank='3' count='581.0'>immunosensor</word>
+	<word rank='4' count='472.0'>immunoassay</word>
+	<word rank='5' count='399.0'>assay</word>
+	<word rank='6' count='375.0'>antibodies</word>
+	<word rank='7' count='360.0'>antigen</word>
+  </topic>
+  <topic id='22' alpha='0.004322087932930598' totalTokens='13290'>
+	<word rank='1' count='707.0'>cardiac</word>
+	<word rank='2' count='564.0'>heart</word>
+	<word rank='3' count='450.0'>myocardial</word>
+	<word rank='4' count='234.0'>cardiomyocytes</word>
+	<word rank='5' count='211.0'>left</word>
+	<word rank='6' count='210.0'>rats</word>
+	<word rank='7' count='204.0'>rat</word>
+  </topic>
+  <topic id='23' alpha='0.07473933415983934' totalTokens='100886'>
+	<word rank='1' count='3741.0'>increased</word>
+	<word rank='2' count='2434.0'>significantly</word>
+	<word rank='3' count='2387.0'>showed</word>
+	<word rank='4' count='2365.0'>results</word>
+	<word rank='5' count='2029.0'>effect</word>
+	<word rank='6' count='1970.0'>higher</word>
+	<word rank='7' count='1916.0'>decreased</word>
+  </topic>
+  <topic id='24' alpha='0.011548675727375859' totalTokens='22832'>
+	<word rank='1' count='512.0'>microfluidic</word>
+	<word rank='2' count='460.0'>flow</word>
+	<word rank='3' count='452.0'>device</word>
+	<word rank='4' count='390.0'>chip</word>
+	<word rank='5' count='261.0'>capillary</word>
+	<word rank='6' count='237.0'>system</word>
+	<word rank='7' count='224.0'>separation</word>
+  </topic>
+  <topic id='25' alpha='0.007841062784172669' totalTokens='34023'>
+	<word rank='1' count='3350.0'>cells</word>
+	<word rank='2' count='1555.0'>stem</word>
+	<word rank='3' count='1399.0'>cell</word>
+	<word rank='4' count='1212.0'>reprogramming</word>
+	<word rank='5' count='788.0'>pluripotent</word>
+	<word rank='6' count='709.0'>ipscs</word>
+	<word rank='7' count='623.0'>embryonic</word>
+  </topic>
+  <topic id='26' alpha='0.02335144013333842' totalTokens='77360'>
+	<word rank='1' count='7126.0'>proteins</word>
+	<word rank='2' count='4058.0'>protein</word>
+	<word rank='3' count='2425.0'>identified</word>
+	<word rank='4' count='2268.0'>spots</word>
+	<word rank='5' count='2069.0'>mass</word>
+	<word rank='6' count='1892.0'>electrophoresis</word>
+	<word rank='7' count='1686.0'>expressed</word>
+  </topic>
+  <topic id='27' alpha='0.006472367480038833' totalTokens='14726'>
+	<word rank='1' count='414.0'>pigs</word>
+	<word rank='2' count='410.0'>porcine</word>
+	<word rank='3' count='391.0'>milk</word>
+	<word rank='4' count='370.0'>pig</word>
+	<word rank='5' count='365.0'>muscle</word>
+	<word rank='6' count='338.0'>chicken</word>
+	<word rank='7' count='249.0'>sheep</word>
+  </topic>
+  <topic id='28' alpha='0.00489846853234309' totalTokens='17688'>
+	<word rank='1' count='463.0'>algorithm</word>
+	<word rank='2' count='461.0'>range</word>
+	<word rank='3' count='383.0'>proposed</word>
+	<word rank='4' count='357.0'>signal</word>
+	<word rank='5' count='327.0'>sar</word>
+	<word rank='6' count='295.0'>imaging</word>
+	<word rank='7' count='290.0'>method</word>
+  </topic>
+  <topic id='29' alpha='0.007162960094481022' totalTokens='19739'>
+	<word rank='1' count='1158.0'>adsorption</word>
+	<word rank='2' count='640.0'>ions</word>
+	<word rank='3' count='632.0'>metal</word>
+	<word rank='4' count='314.0'>heavy</word>
+	<word rank='5' count='267.0'>capacity</word>
+	<word rank='6' count='230.0'>biosorption</word>
+	<word rank='7' count='228.0'>concentration</word>
+  </topic>
+  <topic id='30' alpha='0.010081094778160778' totalTokens='41799'>
+	<word rank='1' count='3398.0'>mirnas</word>
+	<word rank='2' count='2734.0'>mir</word>
+	<word rank='3' count='2005.0'>mirna</word>
+	<word rank='4' count='996.0'>expression</word>
+	<word rank='5' count='914.0'>rnas</word>
+	<word rank='6' count='883.0'>target</word>
+	<word rank='7' count='827.0'>rna</word>
+  </topic>
+  <topic id='31' alpha='0.07111788235036973' totalTokens='129202'>
+	<word rank='1' count='4342.0'>method</word>
+	<word rank='2' count='2755.0'>data</word>
+	<word rank='3' count='2143.0'>based</word>
+	<word rank='4' count='2124.0'>results</word>
+	<word rank='5' count='2013.0'>methods</word>
+	<word rank='6' count='1841.0'>proposed</word>
+	<word rank='7' count='1729.0'>approach</word>
+  </topic>
+  <topic id='32' alpha='0.015628566976588508' totalTokens='67865'>
+	<word rank='1' count='2880.0'>metabolic</word>
+	<word rank='2' count='2536.0'>metabolites</word>
+	<word rank='3' count='1672.0'>metabolism</word>
+	<word rank='4' count='1656.0'>acid</word>
+	<word rank='5' count='1618.0'>analysis</word>
+	<word rank='6' count='861.0'>metabolomics</word>
+	<word rank='7' count='850.0'>biomarkers</word>
+  </topic>
+  <topic id='33' alpha='0.0165279622862328' totalTokens='24690'>
+	<word rank='1' count='1674.0'>water</word>
+	<word rank='2' count='989.0'>solution</word>
+	<word rank='3' count='686.0'>concentration</word>
+	<word rank='4' count='390.0'>aqueous</word>
+	<word rank='5' count='357.0'>sodium</word>
+	<word rank='6' count='275.0'>concentrations</word>
+	<word rank='7' count='268.0'>solutions</word>
+  </topic>
+  <topic id='34' alpha='0.005243421877321475' totalTokens='9519'>
+	<word rank='1' count='940.0'>network</word>
+	<word rank='2' count='739.0'>networks</word>
+	<word rank='3' count='440.0'>complexes</word>
+	<word rank='4' count='370.0'>complex</word>
+	<word rank='5' count='258.0'>core</word>
+	<word rank='6' count='256.0'>protein</word>
+	<word rank='7' count='223.0'>nodes</word>
+  </topic>
+  <topic id='35' alpha='0.0035839737741317572' totalTokens='11167'>
+	<word rank='1' count='491.0'>cry</word>
+	<word rank='2' count='336.0'>insect</word>
+	<word rank='3' count='283.0'>resistance</word>
+	<word rank='4' count='193.0'>thuringiensis</word>
+	<word rank='5' count='166.0'>insects</word>
+	<word rank='6' count='159.0'>larvae</word>
+	<word rank='7' count='148.0'>strain</word>
+  </topic>
+  <topic id='36' alpha='0.007188420127625817' totalTokens='16995'>
+	<word rank='1' count='522.0'>genes</word>
+	<word rank='2' count='512.0'>gene</word>
+	<word rank='3' count='455.0'>essential</word>
+	<word rank='4' count='396.0'>drosophila</word>
+	<word rank='5' count='383.0'>rnai</word>
+	<word rank='6' count='341.0'>elegans</word>
+	<word rank='7' count='327.0'>development</word>
+  </topic>
+  <topic id='37' alpha='0.0031880116257844253' totalTokens='5859'>
+	<word rank='1' count='214.0'>parallel</word>
+	<word rank='2' count='137.0'>memory</word>
+	<word rank='3' count='126.0'>compression</word>
+	<word rank='4' count='118.0'>hpv</word>
+	<word rank='5' count='98.0'>taylor</word>
+	<word rank='6' count='95.0'>francis</word>
+	<word rank='7' count='86.0'>performance</word>
+  </topic>
+  <topic id='38' alpha='0.05700367835098318' totalTokens='129657'>
+	<word rank='1' count='3756.0'>expression</word>
+	<word rank='2' count='2675.0'>signaling</word>
+	<word rank='3' count='1936.0'>protein</word>
+	<word rank='4' count='1862.0'>role</word>
+	<word rank='5' count='1827.0'>pathway</word>
+	<word rank='6' count='1686.0'>activation</word>
+	<word rank='7' count='1193.0'>cell</word>
+  </topic>
+  <topic id='39' alpha='0.006298693858170074' totalTokens='14329'>
+	<word rank='1' count='448.0'>food</word>
+	<word rank='2' count='367.0'>acid</word>
+	<word rank='3' count='335.0'>wine</word>
+	<word rank='4' count='319.0'>fermentation</word>
+	<word rank='5' count='259.0'>lactobacillus</word>
+	<word rank='6' count='215.0'>bacteria</word>
+	<word rank='7' count='167.0'>production</word>
+  </topic>
+  <topic id='40' alpha='0.019212737179577246' totalTokens='42103'>
+	<word rank='1' count='4600.0'>genes</word>
+	<word rank='2' count='2192.0'>essential</word>
+	<word rank='3' count='1592.0'>gene</word>
+	<word rank='4' count='823.0'>genome</word>
+	<word rank='5' count='453.0'>genomes</word>
+	<word rank='6' count='437.0'>genetic</word>
+	<word rank='7' count='331.0'>identified</word>
+  </topic>
+  <topic id='41' alpha='0.02908423906663935' totalTokens='49543'>
+	<word rank='1' count='2413.0'>disease</word>
+	<word rank='2' count='1297.0'>diseases</word>
+	<word rank='3' count='1107.0'>clinical</word>
+	<word rank='4' count='1040.0'>patients</word>
+	<word rank='5' count='988.0'>human</word>
+	<word rank='6' count='941.0'>diagnosis</word>
+	<word rank='7' count='929.0'>biomarkers</word>
+  </topic>
+  <topic id='42' alpha='0.004160447158901665' totalTokens='9784'>
+	<word rank='1' count='646.0'>renal</word>
+	<word rank='2' count='452.0'>urine</word>
+	<word rank='3' count='416.0'>kidney</word>
+	<word rank='4' count='394.0'>urinary</word>
+	<word rank='5' count='335.0'>bladder</word>
+	<word rank='6' count='172.0'>patients</word>
+	<word rank='7' count='151.0'>rejection</word>
+  </topic>
+  <topic id='43' alpha='0.0099641364450179' totalTokens='29273'>
+	<word rank='1' count='2245.0'>virus</word>
+	<word rank='2' count='1312.0'>infection</word>
+	<word rank='3' count='1206.0'>viral</word>
+	<word rank='4' count='695.0'>viruses</word>
+	<word rank='5' count='638.0'>host</word>
+	<word rank='6' count='596.0'>replication</word>
+	<word rank='7' count='476.0'>hiv</word>
+  </topic>
+  <topic id='44' alpha='0.007900001453399778' totalTokens='14041'>
+	<word rank='1' count='3578.0'>dna</word>
+	<word rank='2' count='796.0'>damage</word>
+	<word rank='3' count='667.0'>repair</word>
+	<word rank='4' count='250.0'>replication</word>
+	<word rank='5' count='244.0'>rad</word>
+	<word rank='6' count='179.0'>response</word>
+	<word rank='7' count='149.0'>strand</word>
+  </topic>
+  <topic id='45' alpha='0.05204693631563239' totalTokens='79071'>
+	<word rank='1' count='2131.0'>system</word>
+	<word rank='2' count='1381.0'>design</word>
+	<word rank='3' count='1213.0'>paper</word>
+	<word rank='4' count='1155.0'>process</word>
+	<word rank='5' count='1076.0'>method</word>
+	<word rank='6' count='1072.0'>technology</word>
+	<word rank='7' count='1070.0'>based</word>
+  </topic>
+  <topic id='46' alpha='0.006118415847554597' totalTokens='13980'>
+	<word rank='1' count='256.0'>plasma</word>
+	<word rank='2' count='233.0'>human</word>
+	<word rank='3' count='210.0'>force</word>
+	<word rank='4' count='201.0'>system</word>
+	<word rank='5' count='198.0'>training</word>
+	<word rank='6' count='191.0'>surgery</word>
+	<word rank='7' count='175.0'>rehabilitation</word>
+  </topic>
+  <topic id='47' alpha='0.007006251322947026' totalTokens='25977'>
+	<word rank='1' count='976.0'>vaccine</word>
+	<word rank='2' count='477.0'>immune</word>
+	<word rank='3' count='472.0'>protein</word>
+	<word rank='4' count='464.0'>mice</word>
+	<word rank='5' count='420.0'>antibody</word>
+	<word rank='6' count='414.0'>antigens</word>
+	<word rank='7' count='391.0'>antibodies</word>
+  </topic>
+  <topic id='48' alpha='0.00833805015460703' totalTokens='24010'>
+	<word rank='1' count='937.0'>urban</word>
+	<word rank='2' count='750.0'>land</word>
+	<word rank='3' count='531.0'>area</word>
+	<word rank='4' count='517.0'>expansion</word>
+	<word rank='5' count='344.0'>china</word>
+	<word rank='6' count='342.0'>water</word>
+	<word rank='7' count='329.0'>spatial</word>
+  </topic>
+  <topic id='49' alpha='0.0035710968677175395' totalTokens='6386'>
+	<word rank='1' count='851.0'>soybean</word>
+	<word rank='2' count='195.0'>heparin</word>
+	<word rank='3' count='163.0'>glycine</word>
+	<word rank='4' count='152.0'>max</word>
+	<word rank='5' count='85.0'>flagellar</word>
+	<word rank='6' count='82.0'>sulfate</word>
+	<word rank='7' count='71.0'>radiodurans</word>
+  </topic>
+  <topic id='50' alpha='0.008390023954255216' totalTokens='34787'>
+	<word rank='1' count='815.0'>qtl</word>
+	<word rank='2' count='765.0'>genetic</word>
+	<word rank='3' count='762.0'>markers</word>
+	<word rank='4' count='665.0'>gene</word>
+	<word rank='5' count='624.0'>traits</word>
+	<word rank='6' count='528.0'>mapping</word>
+	<word rank='7' count='522.0'>lines</word>
+  </topic>
+  <topic id='51' alpha='0.015667392258116843' totalTokens='24502'>
+	<word rank='1' count='958.0'>treatment</word>
+	<word rank='2' count='904.0'>effects</word>
+	<word rank='3' count='598.0'>drug</word>
+	<word rank='4' count='571.0'>therapy</word>
+	<word rank='5' count='496.0'>toxicity</word>
+	<word rank='6' count='453.0'>clinical</word>
+	<word rank='7' count='446.0'>drugs</word>
+  </topic>
+  <topic id='52' alpha='0.02427997107589071' totalTokens='55877'>
+	<word rank='1' count='1713.0'>structure</word>
+	<word rank='2' count='1653.0'>protein</word>
+	<word rank='3' count='941.0'>residues</word>
+	<word rank='4' count='897.0'>structural</word>
+	<word rank='5' count='851.0'>structures</word>
+	<word rank='6' count='820.0'>binding</word>
+	<word rank='7' count='676.0'>molecular</word>
+  </topic>
+  <topic id='53' alpha='0.006242916870975506' totalTokens='24688'>
+	<word rank='1' count='554.0'>fish</word>
+	<word rank='2' count='416.0'>fin</word>
+	<word rank='3' count='411.0'>biomimetic</word>
+	<word rank='4' count='387.0'>robotic</word>
+	<word rank='5' count='376.0'>swimming</word>
+	<word rank='6' count='350.0'>motion</word>
+	<word rank='7' count='322.0'>underwater</word>
+  </topic>
+  <topic id='54' alpha='0.0038274310415579984' totalTokens='8696'>
+	<word rank='1' count='285.0'>degradation</word>
+	<word rank='2' count='219.0'>ubiquitin</word>
+	<word rank='3' count='167.0'>telomerase</word>
+	<word rank='4' count='161.0'>protein</word>
+	<word rank='5' count='154.0'>ligase</word>
+	<word rank='6' count='151.0'>telomere</word>
+	<word rank='7' count='150.0'>ubiquitination</word>
+  </topic>
+  <topic id='55' alpha='0.013924709733333955' totalTokens='64830'>
+	<word rank='1' count='2038.0'>electrode</word>
+	<word rank='2' count='1537.0'>electrochemical</word>
+	<word rank='3' count='1046.0'>biosensor</word>
+	<word rank='4' count='977.0'>detection</word>
+	<word rank='5' count='871.0'>electron</word>
+	<word rank='6' count='754.0'>elsevier</word>
+	<word rank='7' count='754.0'>modified</word>
+  </topic>
+  <topic id='56' alpha='0.0193967081051276' totalTokens='38481'>
+	<word rank='1' count='1372.0'>temperature</word>
+	<word rank='2' count='1283.0'>conditions</word>
+	<word rank='3' count='1115.0'>time</word>
+	<word rank='4' count='944.0'>degc</word>
+	<word rank='5' count='892.0'>concentration</word>
+	<word rank='6' count='761.0'>optimal</word>
+	<word rank='7' count='573.0'>extraction</word>
+  </topic>
+  <topic id='57' alpha='0.006513363222021791' totalTokens='14626'>
+	<word rank='1' count='592.0'>light</word>
+	<word rank='2' count='339.0'>photosynthesis</word>
+	<word rank='3' count='331.0'>photosynthetic</word>
+	<word rank='4' count='298.0'>chloroplast</word>
+	<word rank='5' count='268.0'>growth</word>
+	<word rank='6' count='235.0'>algae</word>
+	<word rank='7' count='222.0'>nitrogen</word>
+  </topic>
+  <topic id='58' alpha='0.005727668978522622' totalTokens='16568'>
+	<word rank='1' count='839.0'>sequences</word>
+	<word rank='2' count='576.0'>sequence</word>
+	<word rank='3' count='476.0'>codon</word>
+	<word rank='4' count='428.0'>dna</word>
+	<word rank='5' count='300.0'>mitochondrial</word>
+	<word rank='6' count='297.0'>usage</word>
+	<word rank='7' count='287.0'>genome</word>
+  </topic>
+  <topic id='59' alpha='0.04063600273413371' totalTokens='108974'>
+	<word rank='1' count='12723.0'>proteins</word>
+	<word rank='2' count='4350.0'>protein</word>
+	<word rank='3' count='2658.0'>identified</word>
+	<word rank='4' count='2265.0'>analysis</word>
+	<word rank='5' count='1973.0'>proteomic</word>
+	<word rank='6' count='1960.0'>involved</word>
+	<word rank='7' count='1938.0'>metabolism</word>
+  </topic>
+  <topic id='60' alpha='0.0028509413606894267' totalTokens='7472'>
+	<word rank='1' count='400.0'>immune</word>
+	<word rank='2' count='282.0'>shrimp</word>
+	<word rank='3' count='192.0'>wssv</word>
+	<word rank='4' count='163.0'>infection</word>
+	<word rank='5' count='122.0'>afb</word>
+	<word rank='6' count='121.0'>immunity</word>
+	<word rank='7' count='121.0'>innate</word>
+  </topic>
+  <topic id='61' alpha='0.004283686128794101' totalTokens='7736'>
+	<word rank='1' count='502.0'>iron</word>
+	<word rank='2' count='265.0'>transporter</word>
+	<word rank='3' count='208.0'>abc</word>
+	<word rank='4' count='204.0'>uptake</word>
+	<word rank='5' count='193.0'>transporters</word>
+	<word rank='6' count='164.0'>efflux</word>
+	<word rank='7' count='139.0'>transport</word>
+  </topic>
+  <topic id='62' alpha='0.007552658496323167' totalTokens='16068'>
+	<word rank='1' count='841.0'>activity</word>
+	<word rank='2' count='604.0'>antioxidant</word>
+	<word rank='3' count='571.0'>sod</word>
+	<word rank='4' count='509.0'>activities</word>
+	<word rank='5' count='451.0'>glutathione</word>
+	<word rank='6' count='349.0'>superoxide</word>
+	<word rank='7' count='323.0'>mda</word>
+  </topic>
+  <topic id='63' alpha='0.004579296389815496' totalTokens='10334'>
+	<word rank='1' count='663.0'>insulin</word>
+	<word rank='2' count='572.0'>diabetes</word>
+	<word rank='3' count='566.0'>diabetic</word>
+	<word rank='4' count='387.0'>glucose</word>
+	<word rank='5' count='354.0'>type</word>
+	<word rank='6' count='263.0'>leukemia</word>
+	<word rank='7' count='261.0'>mice</word>
+  </topic>
+  <topic id='64' alpha='0.006635499766634743' totalTokens='17139'>
+	<word rank='1' count='798.0'>algorithm</word>
+	<word rank='2' count='709.0'>problem</word>
+	<word rank='3' count='440.0'>dna</word>
+	<word rank='4' count='342.0'>computing</word>
+	<word rank='5' count='314.0'>paper</word>
+	<word rank='6' count='295.0'>sequence</word>
+	<word rank='7' count='230.0'>time</word>
+  </topic>
+  <topic id='65' alpha='0.0038153494420033866' totalTokens='6365'>
+	<word rank='1' count='960.0'>alpha</word>
+	<word rank='2' count='726.0'>beta</word>
+	<word rank='3' count='165.0'>prrsv</word>
+	<word rank='4' count='139.0'>eye</word>
+	<word rank='5' count='131.0'>tear</word>
+	<word rank='6' count='122.0'>lens</word>
+	<word rank='7' count='97.0'>gamma</word>
+  </topic>
+  <topic id='66' alpha='0.011874156826612643' totalTokens='55232'>
+	<word rank='1' count='1728.0'>unigenes</word>
+	<word rank='2' count='1595.0'>genes</word>
+	<word rank='3' count='1501.0'>transcriptome</word>
+	<word rank='4' count='1130.0'>sequencing</word>
+	<word rank='5' count='869.0'>gene</word>
+	<word rank='6' count='815.0'>identified</word>
+	<word rank='7' count='795.0'>total</word>
+  </topic>
+  <topic id='67' alpha='0.01319228545839052' totalTokens='35552'>
+	<word rank='1' count='1275.0'>soil</word>
+	<word rank='2' count='1158.0'>microbial</word>
+	<word rank='3' count='802.0'>strain</word>
+	<word rank='4' count='761.0'>bacteria</word>
+	<word rank='5' count='649.0'>degradation</word>
+	<word rank='6' count='614.0'>community</word>
+	<word rank='7' count='588.0'>bacterial</word>
+  </topic>
+  <topic id='68' alpha='0.009301757491870158' totalTokens='33960'>
+	<word rank='1' count='1390.0'>binding</word>
+	<word rank='2' count='1314.0'>bsa</word>
+	<word rank='3' count='1253.0'>fluorescence</word>
+	<word rank='4' count='694.0'>interaction</word>
+	<word rank='5' count='676.0'>albumin</word>
+	<word rank='6' count='615.0'>serum</word>
+	<word rank='7' count='511.0'>hsa</word>
+  </topic>
+  <topic id='69' alpha='0.005608373058172458' totalTokens='15911'>
+	<word rank='1' count='947.0'>wheat</word>
+	<word rank='2' count='891.0'>chromosome</word>
+	<word rank='3' count='432.0'>chromosomes</word>
+	<word rank='4' count='298.0'>genomic</word>
+	<word rank='5' count='282.0'>genome</word>
+	<word rank='6' count='249.0'>diploid</word>
+	<word rank='7' count='225.0'>chromosomal</word>
+  </topic>
+  <topic id='70' alpha='0.005891671648963755' totalTokens='13247'>
+	<word rank='1' count='1931.0'>glucose</word>
+	<word rank='2' count='562.0'>carbon</word>
+	<word rank='3' count='401.0'>nanotubes</word>
+	<word rank='4' count='381.0'>oxidase</word>
+	<word rank='5' count='281.0'>cnts</word>
+	<word rank='6' count='269.0'>god</word>
+	<word rank='7' count='248.0'>biosensor</word>
+  </topic>
+  <topic id='71' alpha='0.003214531678859888' totalTokens='8677'>
+	<word rank='1' count='442.0'>inf</word>
+	<word rank='2' count='367.0'>imaging</word>
+	<word rank='3' count='269.0'>editing</word>
+	<word rank='4' count='211.0'>sle</word>
+	<word rank='5' count='195.0'>mri</word>
+	<word rank='6' count='161.0'>magnetic</word>
+	<word rank='7' count='154.0'>resonance</word>
+  </topic>
+  <topic id='72' alpha='0.013495893274685415' totalTokens='31037'>
+	<word rank='1' count='1026.0'>reaction</word>
+	<word rank='2' count='405.0'>catalytic</word>
+	<word rank='3' count='385.0'>oxidation</word>
+	<word rank='4' count='365.0'>complexes</word>
+	<word rank='5' count='350.0'>synthesis</word>
+	<word rank='6' count='346.0'>reactions</word>
+	<word rank='7' count='303.0'>catalyst</word>
+  </topic>
+  <topic id='73' alpha='0.010540699756246016' totalTokens='24072'>
+	<word rank='1' count='986.0'>library</word>
+	<word rank='2' count='827.0'>sequences</word>
+	<word rank='3' count='773.0'>genes</word>
+	<word rank='4' count='657.0'>sequence</word>
+	<word rank='5' count='634.0'>clones</word>
+	<word rank='6' count='561.0'>cdna</word>
+	<word rank='7' count='539.0'>genome</word>
+  </topic>
+  <topic id='74' alpha='0.015449417926208587' totalTokens='46350'>
+	<word rank='1' count='4328.0'>control</word>
+	<word rank='2' count='1592.0'>system</word>
+	<word rank='3' count='1149.0'>controller</word>
+	<word rank='4' count='846.0'>fuzzy</word>
+	<word rank='5' count='737.0'>model</word>
+	<word rank='6' count='631.0'>feedback</word>
+	<word rank='7' count='564.0'>proposed</word>
+  </topic>
+  <topic id='75' alpha='0.007484381878162396' totalTokens='22803'>
+	<word rank='1' count='880.0'>gene</word>
+	<word rank='2' count='445.0'>system</word>
+	<word rank='3' count='439.0'>recombination</word>
+	<word rank='4' count='407.0'>genome</word>
+	<word rank='5' count='301.0'>dna</word>
+	<word rank='6' count='265.0'>genetic</word>
+	<word rank='7' count='249.0'>homologous</word>
+  </topic>
+  <topic id='76' alpha='0.011687385459695986' totalTokens='24263'>
+	<word rank='1' count='755.0'>metabolism</word>
+	<word rank='2' count='713.0'>metabolic</word>
+	<word rank='3' count='651.0'>dehydrogenase</word>
+	<word rank='4' count='577.0'>pathway</word>
+	<word rank='5' count='448.0'>enzymes</word>
+	<word rank='6' count='413.0'>nadh</word>
+	<word rank='7' count='408.0'>glucose</word>
+  </topic>
+  <topic id='77' alpha='0.0534278643993327' totalTokens='46520'>
+	<word rank='1' count='7757.0'>elsevier</word>
+	<word rank='2' count='7693.0'>reserved</word>
+	<word rank='3' count='7671.0'>rights</word>
+	<word rank='4' count='2496.0'>b.v</word>
+	<word rank='5' count='868.0'>study</word>
+	<word rank='6' count='649.0'>published</word>
+	<word rank='7' count='512.0'>results</word>
+  </topic>
+  <topic id='78' alpha='0.009550627972942283' totalTokens='26773'>
+	<word rank='1' count='1754.0'>gene</word>
+	<word rank='2' count='1141.0'>cells</word>
+	<word rank='3' count='928.0'>expression</word>
+	<word rank='4' count='602.0'>vector</word>
+	<word rank='5' count='569.0'>transfected</word>
+	<word rank='6' count='508.0'>transfection</word>
+	<word rank='7' count='485.0'>sirna</word>
+  </topic>
+  <topic id='79' alpha='0.005027616167972755' totalTokens='13882'>
+	<word rank='1' count='653.0'>pollen</word>
+	<word rank='2' count='544.0'>hybrid</word>
+	<word rank='3' count='434.0'>male</word>
+	<word rank='4' count='374.0'>hybrids</word>
+	<word rank='5' count='281.0'>development</word>
+	<word rank='6' count='261.0'>plants</word>
+	<word rank='7' count='257.0'>sterility</word>
+  </topic>
+  <topic id='80' alpha='0.04483380875874742' totalTokens='67438'>
+	<word rank='1' count='5423.0'>model</word>
+	<word rank='2' count='1171.0'>results</word>
+	<word rank='3' count='1131.0'>parameters</word>
+	<word rank='4' count='993.0'>based</word>
+	<word rank='5' count='954.0'>models</word>
+	<word rank='6' count='819.0'>dynamic</word>
+	<word rank='7' count='762.0'>experimental</word>
+  </topic>
+  <topic id='81' alpha='0.02129731524411428' totalTokens='39033'>
+	<word rank='1' count='2982.0'>mutant</word>
+	<word rank='2' count='1707.0'>mutants</word>
+	<word rank='3' count='1205.0'>mutation</word>
+	<word rank='4' count='1147.0'>gene</word>
+	<word rank='5' count='1037.0'>mutations</word>
+	<word rank='6' count='987.0'>wild-type</word>
+	<word rank='7' count='819.0'>type</word>
+  </topic>
+  <topic id='82' alpha='0.005657998885086538' totalTokens='12585'>
+	<word rank='1' count='323.0'>rna</word>
+	<word rank='2' count='305.0'>translation</word>
+	<word rank='3' count='269.0'>region</word>
+	<word rank='4' count='258.0'>mrna</word>
+	<word rank='5' count='228.0'>sequence</word>
+	<word rank='6' count='220.0'>sites</word>
+	<word rank='7' count='216.0'>eif</word>
+  </topic>
+  <topic id='83' alpha='0.003199397063733532' totalTokens='6772'>
+	<word rank='1' count='768.0'>tea</word>
+	<word rank='2' count='258.0'>butanol</word>
+	<word rank='3' count='193.0'>green</word>
+	<word rank='4' count='131.0'>egcg</word>
+	<word rank='5' count='107.0'>acetobutylicum</word>
+	<word rank='6' count='89.0'>clostridium</word>
+	<word rank='7' count='86.0'>interference</word>
+  </topic>
+  <topic id='84' alpha='0.005762797502821337' totalTokens='11159'>
+	<word rank='1' count='3630.0'>rice</word>
+	<word rank='2' count='406.0'>oryza</word>
+	<word rank='3' count='389.0'>sativa</word>
+	<word rank='4' count='245.0'>indica</word>
+	<word rank='5' count='229.0'>japonica</word>
+	<word rank='6' count='198.0'>plant</word>
+	<word rank='7' count='131.0'>oryzae</word>
+  </topic>
+  <topic id='85' alpha='0.011257075471818074' totalTokens='14794'>
+	<word rank='1' count='534.0'>research</word>
+	<word rank='2' count='349.0'>china</word>
+	<word rank='3' count='273.0'>published</word>
+	<word rank='4' count='231.0'>international</word>
+	<word rank='5' count='219.0'>university</word>
+	<word rank='6' count='197.0'>chinese</word>
+	<word rank='7' count='181.0'>science</word>
+  </topic>
+  <topic id='86' alpha='0.005695559817459332' totalTokens='17185'>
+	<word rank='1' count='446.0'>silkworm</word>
+	<word rank='2' count='367.0'>larvae</word>
+	<word rank='3' count='358.0'>insect</word>
+	<word rank='4' count='273.0'>mori</word>
+	<word rank='5' count='262.0'>larval</word>
+	<word rank='6' count='248.0'>insects</word>
+	<word rank='7' count='207.0'>stages</word>
+  </topic>
+  <topic id='87' alpha='0.005889865057225823' totalTokens='20212'>
+	<word rank='1' count='1318.0'>embryos</word>
+	<word rank='2' count='689.0'>development</word>
+	<word rank='3' count='440.0'>nuclear</word>
+	<word rank='4' count='439.0'>embryo</word>
+	<word rank='5' count='374.0'>scnt</word>
+	<word rank='6' count='369.0'>cell</word>
+	<word rank='7' count='350.0'>stage</word>
+  </topic>
+  <topic id='88' alpha='0.011544974691283308' totalTokens='31805'>
+	<word rank='1' count='1401.0'>strains</word>
+	<word rank='2' count='886.0'>strain</word>
+	<word rank='3' count='798.0'>genome</word>
+	<word rank='4' count='695.0'>sequence</word>
+	<word rank='5' count='561.0'>analysis</word>
+	<word rank='6' count='560.0'>isolates</word>
+	<word rank='7' count='492.0'>genomic</word>
+  </topic>
+  <topic id='89' alpha='0.013407768986232653' totalTokens='34004'>
+	<word rank='1' count='2244.0'>activity</word>
+	<word rank='2' count='1616.0'>enzyme</word>
+	<word rank='3' count='508.0'>enzymes</word>
+	<word rank='4' count='507.0'>recombinant</word>
+	<word rank='5' count='415.0'>substrate</word>
+	<word rank='6' count='355.0'>purified</word>
+	<word rank='7' count='342.0'>pastoris</word>
+  </topic>
+  <topic id='90' alpha='0.007800569957800402' totalTokens='20782'>
+	<word rank='1' count='387.0'>expansion</word>
+	<word rank='2' count='364.0'>development</word>
+	<word rank='3' count='325.0'>industry</word>
+	<word rank='4' count='309.0'>market</word>
+	<word rank='5' count='263.0'>china</word>
+	<word rank='6' count='223.0'>paper</word>
+	<word rank='7' count='220.0'>management</word>
+  </topic>
+  <topic id='91' alpha='0.0077943916020254715' totalTokens='19795'>
+	<word rank='1' count='673.0'>sensor</word>
+	<word rank='2' count='427.0'>surface</word>
+	<word rank='3' count='330.0'>detection</word>
+	<word rank='4' count='316.0'>biosensor</word>
+	<word rank='5' count='306.0'>sensitivity</word>
+	<word rank='6' count='305.0'>imprinted</word>
+	<word rank='7' count='304.0'>sensing</word>
+  </topic>
+  <topic id='92' alpha='0.0040714180712128146' totalTokens='10068'>
+	<word rank='1' count='197.0'>flavonoids</word>
+	<word rank='2' count='193.0'>flower</word>
+	<word rank='3' count='191.0'>flavonoid</word>
+	<word rank='4' count='189.0'>anthocyanin</word>
+	<word rank='5' count='149.0'>leaves</word>
+	<word rank='6' count='144.0'>biosynthesis</word>
+	<word rank='7' count='128.0'>floral</word>
+  </topic>
+  <topic id='93' alpha='0.004330688153633437' totalTokens='12490'>
+	<word rank='1' count='1946.0'>hcc</word>
+	<word rank='2' count='738.0'>liver</word>
+	<word rank='3' count='577.0'>hbv</word>
+	<word rank='4' count='476.0'>hepatocellular</word>
+	<word rank='5' count='465.0'>carcinoma</word>
+	<word rank='6' count='407.0'>hepatitis</word>
+	<word rank='7' count='220.0'>cirrhosis</word>
+  </topic>
+  <topic id='94' alpha='0.010407568572160412' totalTokens='43532'>
+	<word rank='1' count='1199.0'>expression</word>
+	<word rank='2' count='1160.0'>cancer</word>
+	<word rank='3' count='1060.0'>tissues</word>
+	<word rank='4' count='970.0'>patients</word>
+	<word rank='5' count='735.0'>cell</word>
+	<word rank='6' count='718.0'>crc</word>
+	<word rank='7' count='717.0'>carcinoma</word>
+  </topic>
+  <topic id='95' alpha='0.012106459581060122' totalTokens='39079'>
+	<word rank='1' count='3087.0'>cells</word>
+	<word rank='2' count='2629.0'>cell</word>
+	<word rank='3' count='1396.0'>cancer</word>
+	<word rank='4' count='673.0'>expression</word>
+	<word rank='5' count='657.0'>human</word>
+	<word rank='6' count='650.0'>apoptosis</word>
+	<word rank='7' count='567.0'>lines</word>
+  </topic>
+  <topic id='96' alpha='0.009491107048077482' totalTokens='19060'>
+	<word rank='1' count='706.0'>spectra</word>
+	<word rank='2' count='428.0'>peak</word>
+	<word rank='3' count='425.0'>light</word>
+	<word rank='4' count='422.0'>raman</word>
+	<word rank='5' count='414.0'>spectroscopy</word>
+	<word rank='6' count='413.0'>absorption</word>
+	<word rank='7' count='348.0'>spectrum</word>
+  </topic>
+  <topic id='97' alpha='0.0034365524041523403' totalTokens='6668'>
+	<word rank='1' count='237.0'>finger</word>
+	<word rank='2' count='184.0'>hand</word>
+	<word rank='3' count='170.0'>textile</word>
+	<word rank='4' count='145.0'>fabric</word>
+	<word rank='5' count='143.0'>drying</word>
+	<word rank='6' count='137.0'>pdt</word>
+	<word rank='7' count='131.0'>bioengineering</word>
+  </topic>
+  <topic id='98' alpha='0.00797847314477669' totalTokens='32466'>
+	<word rank='1' count='882.0'>surface</word>
+	<word rank='2' count='813.0'>coating</word>
+	<word rank='3' count='475.0'>composite</word>
+	<word rank='4' count='456.0'>scaffolds</word>
+	<word rank='5' count='440.0'>bone</word>
+	<word rank='6' count='432.0'>apatite</word>
+	<word rank='7' count='397.0'>titanium</word>
+  </topic>
+  <topic id='99' alpha='0.006076236494828491' totalTokens='12494'>
+	<word rank='1' count='1006.0'>hsp</word>
+	<word rank='2' count='737.0'>mitochondrial</word>
+	<word rank='3' count='581.0'>heat</word>
+	<word rank='4' count='389.0'>stress</word>
+	<word rank='5' count='379.0'>autophagy</word>
+	<word rank='6' count='371.0'>shock</word>
+	<word rank='7' count='359.0'>protein</word>
+  </topic>
+  <topic id='100' alpha='0.014165123603183588' totalTokens='66951'>
+	<word rank='1' count='3225.0'>bone</word>
+	<word rank='2' count='1720.0'>tissue</word>
+	<word rank='3' count='1454.0'>scaffolds</word>
+	<word rank='4' count='1372.0'>scaffold</word>
+	<word rank='5' count='897.0'>cartilage</word>
+	<word rank='6' count='860.0'>engineering</word>
+	<word rank='7' count='789.0'>collagen</word>
+  </topic>
+  <topic id='101' alpha='0.005119023517955085' totalTokens='10933'>
+	<word rank='1' count='700.0'>cell</word>
+	<word rank='2' count='419.0'>actin</word>
+	<word rank='3' count='355.0'>cells</word>
+	<word rank='4' count='231.0'>retinal</word>
+	<word rank='5' count='219.0'>cytoskeleton</word>
+	<word rank='6' count='190.0'>migration</word>
+	<word rank='7' count='156.0'>rpe</word>
+  </topic>
+  <topic id='102' alpha='0.010468454947335736' totalTokens='24677'>
+	<word rank='1' count='1469.0'>network</word>
+	<word rank='2' count='1391.0'>gene</word>
+	<word rank='3' count='1183.0'>regulatory</word>
+	<word rank='4' count='1039.0'>networks</word>
+	<word rank='5' count='638.0'>metabolic</word>
+	<word rank='6' count='577.0'>genes</word>
+	<word rank='7' count='539.0'>data</word>
+  </topic>
+  <topic id='103' alpha='0.006666391151448935' totalTokens='18112'>
+	<word rank='1' count='1005.0'>lipid</word>
+	<word rank='2' count='572.0'>cyp</word>
+	<word rank='3' count='480.0'>cholesterol</word>
+	<word rank='4' count='431.0'>metabolism</word>
+	<word rank='5' count='389.0'>fatty</word>
+	<word rank='6' count='327.0'>mice</word>
+	<word rank='7' count='296.0'>liver</word>
+  </topic>
+  <topic id='104' alpha='0.00572816206203007' totalTokens='17063'>
+	<word rank='1' count='682.0'>silk</word>
+	<word rank='2' count='630.0'>fibers</word>
+	<word rank='3' count='523.0'>collagen</word>
+	<word rank='4' count='489.0'>scaffolds</word>
+	<word rank='5' count='426.0'>nanofibers</word>
+	<word rank='6' count='370.0'>fiber</word>
+	<word rank='7' count='329.0'>fibroin</word>
+  </topic>
+  <topic id='105' alpha='0.006949131120238294' totalTokens='19830'>
+	<word rank='1' count='1862.0'>resistance</word>
+	<word rank='2' count='513.0'>disease</word>
+	<word rank='3' count='470.0'>infection</word>
+	<word rank='4' count='448.0'>resistant</word>
+	<word rank='5' count='384.0'>plant</word>
+	<word rank='6' count='383.0'>defense</word>
+	<word rank='7' count='364.0'>genes</word>
+  </topic>
+  <topic id='106' alpha='0.009930441011584419' totalTokens='22064'>
+	<word rank='1' count='1393.0'>power</word>
+	<word rank='2' count='701.0'>energy</word>
+	<word rank='3' count='459.0'>expansion</word>
+	<word rank='4' count='434.0'>current</word>
+	<word rank='5' count='399.0'>system</word>
+	<word rank='6' count='335.0'>voltage</word>
+	<word rank='7' count='287.0'>transmission</word>
+  </topic>
+  <topic id='107' alpha='0.011303878914011821' totalTokens='29261'>
+	<word rank='1' count='760.0'>energy</word>
+	<word rank='2' count='447.0'>molecular</word>
+	<word rank='3' count='434.0'>hydrogen</word>
+	<word rank='4' count='366.0'>interaction</word>
+	<word rank='5' count='327.0'>bond</word>
+	<word rank='6' count='304.0'>results</word>
+	<word rank='7' count='299.0'>calculations</word>
+  </topic>
+  <topic id='108' alpha='0.015736809992318114' totalTokens='48306'>
+	<word rank='1' count='1424.0'>surface</word>
+	<word rank='2' count='610.0'>polymer</word>
+	<word rank='3' count='550.0'>groups</word>
+	<word rank='4' count='536.0'>modified</word>
+	<word rank='5' count='517.0'>adsorption</word>
+	<word rank='6' count='479.0'>polymerization</word>
+	<word rank='7' count='450.0'>protein</word>
+  </topic>
+  <topic id='109' alpha='0.0032068543123143583' totalTokens='6281'>
+	<word rank='1' count='364.0'>aging</word>
+	<word rank='2' count='273.0'>shell</word>
+	<word rank='3' count='147.0'>head</word>
+	<word rank='4' count='79.0'>aged</word>
+	<word rank='5' count='76.0'>honeybee</word>
+	<word rank='6' count='76.0'>bee</word>
+	<word rank='7' count='74.0'>formation</word>
+  </topic>
+  <topic id='110' alpha='0.008455996681168771' totalTokens='21837'>
+	<word rank='1' count='1082.0'>chinese</word>
+	<word rank='2' count='793.0'>medicine</word>
+	<word rank='3' count='722.0'>traditional</word>
+	<word rank='4' count='608.0'>tcm</word>
+	<word rank='5' count='294.0'>study</word>
+	<word rank='6' count='286.0'>herbal</word>
+	<word rank='7' count='277.0'>syndrome</word>
+  </topic>
+  <topic id='111' alpha='0.00276550348360587' totalTokens='5756'>
+	<word rank='1' count='184.0'>synechocystis</word>
+	<word rank='2' count='169.0'>cyanobacteria</word>
+	<word rank='3' count='166.0'>pcc</word>
+	<word rank='4' count='154.0'>reduction</word>
+	<word rank='5' count='131.0'>drag</word>
+	<word rank='6' count='112.0'>cyanobacterial</word>
+	<word rank='7' count='104.0'>slr</word>
+  </topic>
+  <topic id='112' alpha='0.009982082825868255' totalTokens='27347'>
+	<word rank='1' count='1069.0'>model</word>
+	<word rank='2' count='574.0'>prediction</word>
+	<word rank='3' count='544.0'>analysis</word>
+	<word rank='4' count='543.0'>neural</word>
+	<word rank='5' count='515.0'>network</word>
+	<word rank='6' count='498.0'>models</word>
+	<word rank='7' count='476.0'>method</word>
+  </topic>
+  <topic id='113' alpha='0.007825727075854582' totalTokens='18895'>
+	<word rank='1' count='1059.0'>endothelial</word>
+	<word rank='2' count='891.0'>vascular</word>
+	<word rank='3' count='823.0'>blood</word>
+	<word rank='4' count='498.0'>vegf</word>
+	<word rank='5' count='316.0'>angiogenesis</word>
+	<word rank='6' count='313.0'>cells</word>
+	<word rank='7' count='244.0'>factor</word>
+  </topic>
+  <topic id='114' alpha='0.030860588954706454' totalTokens='55967'>
+	<word rank='1' count='6788.0'>expression</word>
+	<word rank='2' count='2031.0'>levels</word>
+	<word rank='3' count='1926.0'>gene</word>
+	<word rank='4' count='1734.0'>mrna</word>
+	<word rank='5' count='1411.0'>level</word>
+	<word rank='6' count='1295.0'>real-time</word>
+	<word rank='7' count='1205.0'>genes</word>
+  </topic>
+  <topic id='115' alpha='0.005529667281136369' totalTokens='15058'>
+	<word rank='1' count='502.0'>query</word>
+	<word rank='2' count='428.0'>retrieval</word>
+	<word rank='3' count='423.0'>information</word>
+	<word rank='4' count='357.0'>expansion</word>
+	<word rank='5' count='271.0'>model</word>
+	<word rank='6' count='265.0'>semantic</word>
+	<word rank='7' count='255.0'>paper</word>
+  </topic>
+  <topic id='116' alpha='0.003364181821937382' totalTokens='6817'>
+	<word rank='1' count='542.0'>starch</word>
+	<word rank='2' count='280.0'>citrus</word>
+	<word rank='3' count='214.0'>sweet</word>
+	<word rank='4' count='211.0'>potato</word>
+	<word rank='5' count='182.0'>orange</word>
+	<word rank='6' count='112.0'>quercetin</word>
+	<word rank='7' count='99.0'>sucrose</word>
+  </topic>
+  <topic id='117' alpha='0.0034208191893725106' totalTokens='5970'>
+	<word rank='1' count='309.0'>storage</word>
+	<word rank='2' count='117.0'>white</word>
+	<word rank='3' count='98.0'>reversible</word>
+	<word rank='4' count='96.0'>egg</word>
+	<word rank='5' count='84.0'>stored</word>
+	<word rank='6' count='79.0'>embedding</word>
+	<word rank='7' count='73.0'>concrete</word>
+  </topic>
+  <topic id='118' alpha='0.011880085668124764' totalTokens='30097'>
+	<word rank='1' count='1300.0'>method</word>
+	<word rank='2' count='1001.0'>detection</word>
+	<word rank='3' count='762.0'>times</word>
+	<word rank='4' count='747.0'>determination</word>
+	<word rank='5' count='572.0'>samples</word>
+	<word rank='6' count='572.0'>concentration</word>
+	<word rank='7' count='565.0'>range</word>
+  </topic>
+  <topic id='119' alpha='0.00599183322568883' totalTokens='17844'>
+	<word rank='1' count='1213.0'>cells</word>
+	<word rank='2' count='447.0'>mice</word>
+	<word rank='3' count='441.0'>immune</word>
+	<word rank='4' count='332.0'>cell</word>
+	<word rank='5' count='229.0'>lymphocytes</word>
+	<word rank='6' count='215.0'>blood</word>
+	<word rank='7' count='206.0'>dcs</word>
+  </topic>
+  <topic id='120' alpha='0.007843056957218666' totalTokens='19292'>
+	<word rank='1' count='4347.0'>cancer</word>
+	<word rank='2' count='876.0'>breast</word>
+	<word rank='3' count='691.0'>gastric</word>
+	<word rank='4' count='583.0'>prostate</word>
+	<word rank='5' count='582.0'>pancreatic</word>
+	<word rank='6' count='542.0'>ovarian</word>
+	<word rank='7' count='380.0'>normal</word>
+  </topic>
+  <topic id='121' alpha='0.008054079239239544' totalTokens='10932'>
+	<word rank='1' count='829.0'>wiley</word>
+	<word rank='2' count='699.0'>qds</word>
+	<word rank='3' count='499.0'>john</word>
+	<word rank='4' count='498.0'>sons</word>
+	<word rank='5' count='442.0'>labeling</word>
+	<word rank='6' count='325.0'>copyright</word>
+	<word rank='7' count='311.0'>periodicals</word>
+  </topic>
+  <topic id='122' alpha='0.003956418309460078' totalTokens='8301'>
+	<word rank='1' count='321.0'>glycoproteins</word>
+	<word rank='2' count='222.0'>glycosylation</word>
+	<word rank='3' count='221.0'>arsenic</word>
+	<word rank='4' count='168.0'>glycopeptides</word>
+	<word rank='5' count='150.0'>lectin</word>
+	<word rank='6' count='139.0'>prp</word>
+	<word rank='7' count='126.0'>con</word>
+  </topic>
+  <topic id='123' alpha='0.047280669547298766' totalTokens='62536'>
+	<word rank='1' count='4014.0'>method</word>
+	<word rank='2' count='1388.0'>analysis</word>
+	<word rank='3' count='1362.0'>methods</word>
+	<word rank='4' count='1192.0'>samples</word>
+	<word rank='5' count='945.0'>developed</word>
+	<word rank='6' count='929.0'>sample</word>
+	<word rank='7' count='850.0'>high</word>
+  </topic>
+  <topic id='124' alpha='0.012571195004608727' totalTokens='36944'>
+	<word rank='1' count='2063.0'>genes</word>
+	<word rank='2' count='1143.0'>gene</word>
+	<word rank='3' count='922.0'>family</word>
+	<word rank='4' count='806.0'>splicing</word>
+	<word rank='5' count='707.0'>analysis</word>
+	<word rank='6' count='655.0'>expression</word>
+	<word rank='7' count='538.0'>identified</word>
+  </topic>
+  <topic id='125' alpha='0.010586720316329576' totalTokens='18592'>
+	<word rank='1' count='1387.0'>media</word>
+	<word rank='2' count='1185.0'>springer</word>
+	<word rank='3' count='1159.0'>business</word>
+	<word rank='4' count='1152.0'>science</word>
+	<word rank='5' count='777.0'>transformation</word>
+	<word rank='6' count='606.0'>gene</word>
+	<word rank='7' count='404.0'>b.v</word>
+  </topic>
+  <topic id='126' alpha='0.005992012855036608' totalTokens='14377'>
+	<word rank='1' count='651.0'>male</word>
+	<word rank='2' count='482.0'>sperm</word>
+	<word rank='3' count='448.0'>female</word>
+	<word rank='4' count='344.0'>sex</word>
+	<word rank='5' count='292.0'>testis</word>
+	<word rank='6' count='222.0'>reproductive</word>
+	<word rank='7' count='201.0'>spermatogenesis</word>
+  </topic>
+  <topic id='127' alpha='0.013110057925997462' totalTokens='32520'>
+	<word rank='1' count='1380.0'>data</word>
+	<word rank='2' count='1011.0'>classification</word>
+	<word rank='3' count='805.0'>method</word>
+	<word rank='4' count='760.0'>feature</word>
+	<word rank='5' count='743.0'>clustering</word>
+	<word rank='6' count='515.0'>proposed</word>
+	<word rank='7' count='509.0'>algorithm</word>
+  </topic>
+  <topic id='128' alpha='0.00224901155204707' totalTokens='10977'>
+	<word rank='1' count='1521.0'>paper</word>
+	<word rank='2' count='593.0'>content</word>
+	<word rank='3' count='302.0'>expert</word>
+	<word rank='4' count='301.0'>reasonable</word>
+	<word rank='5' count='297.0'>made</word>
+	<word rank='6' count='294.0'>option</word>
+	<word rank='7' count='292.0'>constituted</word>
+  </topic>
+  <topic id='129' alpha='0.011392874373587544' totalTokens='32675'>
+	<word rank='1' count='881.0'>network</word>
+	<word rank='2' count='516.0'>control</word>
+	<word rank='3' count='459.0'>proposed</word>
+	<word rank='4' count='408.0'>paper</word>
+	<word rank='5' count='405.0'>mechanism</word>
+	<word rank='6' count='393.0'>based</word>
+	<word rank='7' count='366.0'>feedback</word>
+  </topic>
+  <topic id='130' alpha='0.0028939167303909837' totalTokens='10050'>
+	<word rank='1' count='308.0'>phb</word>
+	<word rank='2' count='293.0'>fatty</word>
+	<word rank='3' count='267.0'>pha</word>
+	<word rank='4' count='226.0'>acid</word>
+	<word rank='5' count='177.0'>coli</word>
+	<word rank='6' count='155.0'>synthesis</word>
+	<word rank='7' count='136.0'>poly</word>
+  </topic>
+  <topic id='131' alpha='0.019318289749038806' totalTokens='34752'>
+	<word rank='1' count='843.0'>materials</word>
+	<word rank='2' count='628.0'>biomimetic</word>
+	<word rank='3' count='572.0'>structures</word>
+	<word rank='4' count='486.0'>verlag</word>
+	<word rank='5' count='478.0'>gmbh</word>
+	<word rank='6' count='472.0'>design</word>
+	<word rank='7' count='444.0'>kgaa</word>
+  </topic>
+  <topic id='132' alpha='0.019815481991704017' totalTokens='38409'>
+	<word rank='1' count='2791.0'>system</word>
+	<word rank='2' count='690.0'>control</word>
+	<word rank='3' count='564.0'>based</word>
+	<word rank='4' count='500.0'>design</word>
+	<word rank='5' count='457.0'>sensor</word>
+	<word rank='6' count='425.0'>software</word>
+	<word rank='7' count='401.0'>designed</word>
+  </topic>
+  <topic id='133' alpha='0.017504975988313017' totalTokens='43330'>
+	<word rank='1' count='1653.0'>gene</word>
+	<word rank='2' count='1584.0'>sequence</word>
+	<word rank='3' count='1536.0'>amino</word>
+	<word rank='4' count='1214.0'>protein</word>
+	<word rank='5' count='975.0'>acid</word>
+	<word rank='6' count='951.0'>cdna</word>
+	<word rank='7' count='898.0'>analysis</word>
+  </topic>
+  <topic id='134' alpha='0.010616786984384624' totalTokens='27623'>
+	<word rank='1' count='742.0'>yield</word>
+	<word rank='2' count='624.0'>grain</word>
+	<word rank='3' count='610.0'>plant</word>
+	<word rank='4' count='566.0'>rice</word>
+	<word rank='5' count='553.0'>crop</word>
+	<word rank='6' count='532.0'>wheat</word>
+	<word rank='7' count='451.0'>breeding</word>
+  </topic>
+  <topic id='135' alpha='0.006012232327414596' totalTokens='15308'>
+	<word rank='1' count='1108.0'>phosphorylation</word>
+	<word rank='2' count='620.0'>sites</word>
+	<word rank='3' count='532.0'>protein</word>
+	<word rank='4' count='336.0'>phosphopeptides</word>
+	<word rank='5' count='326.0'>phosphoproteins</word>
+	<word rank='6' count='311.0'>proteins</word>
+	<word rank='7' count='297.0'>phosphorylated</word>
+  </topic>
+  <topic id='136' alpha='0.16716993563852647' totalTokens='214093'>
+	<word rank='1' count='2694.0'>study</word>
+	<word rank='2' count='2234.0'>important</word>
+	<word rank='3' count='2198.0'>studies</word>
+	<word rank='4' count='2000.0'>provide</word>
+	<word rank='5' count='1859.0'>biological</word>
+	<word rank='6' count='1858.0'>molecular</word>
+	<word rank='7' count='1801.0'>understanding</word>
+  </topic>
+  <topic id='137' alpha='0.013212059217521149' totalTokens='29754'>
+	<word rank='1' count='1276.0'>magnetic</word>
+	<word rank='2' count='889.0'>microspheres</word>
+	<word rank='3' count='878.0'>silica</word>
+	<word rank='4' count='802.0'>nanoparticles</word>
+	<word rank='5' count='653.0'>particles</word>
+	<word rank='6' count='482.0'>surface</word>
+	<word rank='7' count='448.0'>size</word>
+  </topic>
+  <topic id='138' alpha='0.004181951132206158' totalTokens='8742'>
+	<word rank='1' count='412.0'>kinase</word>
+	<word rank='2' count='319.0'>atp</word>
+	<word rank='3' count='200.0'>protein</word>
+	<word rank='4' count='181.0'>activity</word>
+	<word rank='5' count='176.0'>parasite</word>
+	<word rank='6' count='170.0'>tyrosine</word>
+	<word rank='7' count='153.0'>pkc</word>
+  </topic>
+  <topic id='139' alpha='0.011548601267049673' totalTokens='24259'>
+	<word rank='1' count='910.0'>oxygen</word>
+	<word rank='2' count='893.0'>ros</word>
+	<word rank='3' count='884.0'>oxidative</word>
+	<word rank='4' count='870.0'>stress</word>
+	<word rank='5' count='709.0'>reactive</word>
+	<word rank='6' count='677.0'>species</word>
+	<word rank='7' count='444.0'>hypoxia</word>
+  </topic>
+  <topic id='140' alpha='0.014945788058669494' totalTokens='36336'>
+	<word rank='1' count='1077.0'>bacterial</word>
+	<word rank='2' count='1045.0'>bacteria</word>
+	<word rank='3' count='698.0'>strains</word>
+	<word rank='4' count='672.0'>coli</word>
+	<word rank='5' count='661.0'>virulence</word>
+	<word rank='6' count='608.0'>resistance</word>
+	<word rank='7' count='605.0'>tuberculosis</word>
+  </topic>
+  <topic id='141' alpha='0.011040108907732573' totalTokens='24902'>
+	<word rank='1' count='2158.0'>protein</word>
+	<word rank='2' count='1403.0'>proteins</word>
+	<word rank='3' count='490.0'>identified</word>
+	<word rank='4' count='460.0'>subunit</word>
+	<word rank='5' count='429.0'>expression</word>
+	<word rank='6' count='344.0'>beta</word>
+	<word rank='7' count='330.0'>dehydrogenase</word>
+  </topic>
+  <topic id='142' alpha='0.014585889217884715' totalTokens='47262'>
+	<word rank='1' count='2503.0'>robot</word>
+	<word rank='2' count='845.0'>ieee</word>
+	<word rank='3' count='756.0'>motion</word>
+	<word rank='4' count='739.0'>control</word>
+	<word rank='5' count='701.0'>mechanism</word>
+	<word rank='6' count='539.0'>proposed</word>
+	<word rank='7' count='538.0'>paper</word>
+  </topic>
+  <topic id='143' alpha='0.011265184271240193' totalTokens='29318'>
+	<word rank='1' count='2015.0'>plants</word>
+	<word rank='2' count='1818.0'>transgenic</word>
+	<word rank='3' count='1120.0'>plant</word>
+	<word rank='4' count='841.0'>gene</word>
+	<word rank='5' count='755.0'>arabidopsis</word>
+	<word rank='6' count='719.0'>tobacco</word>
+	<word rank='7' count='585.0'>expression</word>
+  </topic>
+  <topic id='144' alpha='0.0029045200064568523' totalTokens='6012'>
+	<word rank='1' count='330.0'>acetylation</word>
+	<word rank='2' count='282.0'>lysine</word>
+	<word rank='3' count='247.0'>histone</word>
+	<word rank='4' count='232.0'>bamboo</word>
+	<word rank='5' count='201.0'>sirt</word>
+	<word rank='6' count='186.0'>artemisinin</word>
+	<word rank='7' count='163.0'>hdac</word>
+  </topic>
+  <topic id='145' alpha='0.012104523002883828' totalTokens='44470'>
+	<word rank='1' count='1463.0'>removal</word>
+	<word rank='2' count='1052.0'>sludge</word>
+	<word rank='3' count='984.0'>wastewater</word>
+	<word rank='4' count='984.0'>treatment</word>
+	<word rank='5' count='751.0'>process</word>
+	<word rank='6' count='545.0'>organic</word>
+	<word rank='7' count='523.0'>rate</word>
+  </topic>
+  <topic id='146' alpha='0.005872371119928472' totalTokens='20177'>
+	<word rank='1' count='840.0'>rats</word>
+	<word rank='2' count='446.0'>group</word>
+	<word rank='3' count='414.0'>injury</word>
+	<word rank='4' count='348.0'>rat</word>
+	<word rank='5' count='282.0'>ischemia</word>
+	<word rank='6' count='276.0'>model</word>
+	<word rank='7' count='258.0'>cerebral</word>
+  </topic>
+  <topic id='147' alpha='0.0036478715183952074' totalTokens='5661'>
+	<word rank='1' count='218.0'>juice</word>
+	<word rank='2' count='213.0'>chitosan</word>
+	<word rank='3' count='174.0'>vitamin</word>
+	<word rank='4' count='142.0'>abeta</word>
+	<word rank='5' count='116.0'>resveratrol</word>
+	<word rank='6' count='111.0'>ace</word>
+	<word rank='7' count='100.0'>pol</word>
+  </topic>
+  <topic id='148' alpha='0.004638822885103475' totalTokens='15714'>
+	<word rank='1' count='457.0'>gene</word>
+	<word rank='2' count='444.0'>cluster</word>
+	<word rank='3' count='350.0'>biosynthesis</word>
+	<word rank='4' count='287.0'>production</word>
+	<word rank='5' count='285.0'>genes</word>
+	<word rank='6' count='256.0'>streptomyces</word>
+	<word rank='7' count='220.0'>strain</word>
+  </topic>
+  <topic id='149' alpha='0.00619245187679877' totalTokens='12914'>
+	<word rank='1' count='559.0'>fungi</word>
+	<word rank='2' count='500.0'>fungal</word>
+	<word rank='3' count='382.0'>fungus</word>
+	<word rank='4' count='203.0'>albicans</word>
+	<word rank='5' count='189.0'>antifungal</word>
+	<word rank='6' count='189.0'>growth</word>
+	<word rank='7' count='184.0'>aspergillus</word>
+  </topic>
+  <topic id='150' alpha='0.016233969965111922' totalTokens='31742'>
+	<word rank='1' count='1528.0'>peptide</word>
+	<word rank='2' count='1087.0'>protein</word>
+	<word rank='3' count='868.0'>fusion</word>
+	<word rank='4' count='808.0'>peptides</word>
+	<word rank='5' count='780.0'>binding</word>
+	<word rank='6' count='550.0'>proteins</word>
+	<word rank='7' count='496.0'>affinity</word>
+  </topic>
+  <topic id='151' alpha='0.00411473084432385' totalTokens='7044'>
+	<word rank='1' count='144.0'>adenosine</word>
+	<word rank='2' count='124.0'>phosphate</word>
+	<word rank='3' count='121.0'>purine</word>
+	<word rank='4' count='118.0'>synthesis</word>
+	<word rank='5' count='93.0'>aldh</word>
+	<word rank='6' count='84.0'>pin</word>
+	<word rank='7' count='83.0'>enzymes</word>
+  </topic>
+  <topic id='152' alpha='0.057781369080979736' totalTokens='97807'>
+	<word rank='1' count='2352.0'>research</word>
+	<word rank='2' count='2026.0'>review</word>
+	<word rank='3' count='1958.0'>recent</word>
+	<word rank='4' count='1639.0'>development</word>
+	<word rank='5' count='1200.0'>applications</word>
+	<word rank='6' count='1085.0'>biological</word>
+	<word rank='7' count='1074.0'>years</word>
+  </topic>
+  <topic id='153' alpha='0.012652280958983908' totalTokens='52011'>
+	<word rank='1' count='2250.0'>dna</word>
+	<word rank='2' count='1964.0'>detection</word>
+	<word rank='3' count='944.0'>target</word>
+	<word rank='4' count='793.0'>signal</word>
+	<word rank='5' count='775.0'>probe</word>
+	<word rank='6' count='617.0'>elsevier</word>
+	<word rank='7' count='539.0'>reserved</word>
+  </topic>
+  <topic id='154' alpha='0.007842162624306101' totalTokens='20612'>
+	<word rank='1' count='877.0'>fish</word>
+	<word rank='2' count='469.0'>exposure</word>
+	<word rank='3' count='388.0'>carp</word>
+	<word rank='4' count='362.0'>zebrafish</word>
+	<word rank='5' count='314.0'>marine</word>
+	<word rank='6' count='243.0'>exposed</word>
+	<word rank='7' count='225.0'>sea</word>
+  </topic>
+  <topic id='155' alpha='0.01564777635626932' totalTokens='43427'>
+	<word rank='1' count='1849.0'>image</word>
+	<word rank='2' count='854.0'>method</word>
+	<word rank='3' count='820.0'>images</word>
+	<word rank='4' count='770.0'>algorithm</word>
+	<word rank='5' count='734.0'>proposed</word>
+	<word rank='6' count='665.0'>based</word>
+	<word rank='7' count='561.0'>paper</word>
+  </topic>
+  <topic id='156' alpha='0.005511411583071137' totalTokens='15819'>
+	<word rank='1' count='528.0'>patients</word>
+	<word rank='2' count='388.0'>risk</word>
+	<word rank='3' count='242.0'>age</word>
+	<word rank='4' count='238.0'>subjects</word>
+	<word rank='5' count='203.0'>chinese</word>
+	<word rank='6' count='196.0'>study</word>
+	<word rank='7' count='168.0'>significant</word>
+  </topic>
+  <topic id='157' alpha='0.01600733764855607' totalTokens='49757'>
+	<word rank='1' count='2477.0'>production</word>
+	<word rank='2' count='1718.0'>fermentation</word>
+	<word rank='3' count='1255.0'>strain</word>
+	<word rank='4' count='1174.0'>ethanol</word>
+	<word rank='5' count='971.0'>g/l</word>
+	<word rank='6' count='823.0'>glucose</word>
+	<word rank='7' count='806.0'>yield</word>
+  </topic>
+  <topic id='158' alpha='0.006977782964624115' totalTokens='18943'>
+	<word rank='1' count='930.0'>fruit</word>
+	<word rank='2' count='424.0'>development</word>
+	<word rank='3' count='353.0'>plant</word>
+	<word rank='4' count='284.0'>flowering</word>
+	<word rank='5' count='257.0'>leaf</word>
+	<word rank='6' count='233.0'>ripening</word>
+	<word rank='7' count='225.0'>fruits</word>
+  </topic>
+  <topic id='159' alpha='0.005303041490654403' totalTokens='13301'>
+	<word rank='1' count='755.0'>muscle</word>
+	<word rank='2' count='661.0'>nerve</word>
+	<word rank='3' count='327.0'>spinal</word>
+	<word rank='4' count='267.0'>regeneration</word>
+	<word rank='5' count='251.0'>skeletal</word>
+	<word rank='6' count='244.0'>cord</word>
+	<word rank='7' count='188.0'>injury</word>
+  </topic>
+  <topic id='160' alpha='0.01129940620067947' totalTokens='29341'>
+	<word rank='1' count='705.0'>system</word>
+	<word rank='2' count='617.0'>proposed</word>
+	<word rank='3' count='569.0'>nonlinear</word>
+	<word rank='4' count='520.0'>systems</word>
+	<word rank='5' count='480.0'>control</word>
+	<word rank='6' count='370.0'>stability</word>
+	<word rank='7' count='351.0'>method</word>
+  </topic>
+  <topic id='161' alpha='0.005027053110823735' totalTokens='13961'>
+	<word rank='1' count='750.0'>root</word>
+	<word rank='2' count='434.0'>plant</word>
+	<word rank='3' count='432.0'>roots</word>
+	<word rank='4' count='287.0'>plants</word>
+	<word rank='5' count='281.0'>medium</word>
+	<word rank='6' count='258.0'>regeneration</word>
+	<word rank='7' count='236.0'>callus</word>
+  </topic>
+  <topic id='162' alpha='0.011894330765240324' totalTokens='20332'>
+	<word rank='1' count='2758.0'>acid</word>
+	<word rank='2' count='1390.0'>acids</word>
+	<word rank='3' count='1203.0'>amino</word>
+	<word rank='4' count='901.0'>fatty</word>
+	<word rank='5' count='374.0'>intestinal</word>
+	<word rank='6' count='216.0'>content</word>
+	<word rank='7' count='214.0'>diet</word>
+  </topic>
+  <topic id='163' alpha='0.012968750226313568' totalTokens='53209'>
+	<word rank='1' count='1598.0'>drug</word>
+	<word rank='2' count='1460.0'>delivery</word>
+	<word rank='3' count='1351.0'>release</word>
+	<word rank='4' count='762.0'>nanoparticles</word>
+	<word rank='5' count='636.0'>cells</word>
+	<word rank='6' count='604.0'>micelles</word>
+	<word rank='7' count='538.0'>efficiency</word>
+  </topic>
+  <topic id='164' alpha='0.006868513487735455' totalTokens='13983'>
+	<word rank='1' count='616.0'>purified</word>
+	<word rank='2' count='599.0'>protein</word>
+	<word rank='3' count='473.0'>chromatography</word>
+	<word rank='4' count='403.0'>purification</word>
+	<word rank='5' count='278.0'>affinity</word>
+	<word rank='6' count='220.0'>recombinant</word>
+	<word rank='7' count='173.0'>activity</word>
+  </topic>
+  <topic id='165' alpha='0.005420155221493448' totalTokens='14806'>
+	<word rank='1' count='918.0'>peptides</word>
+	<word rank='2' count='789.0'>peptide</word>
+	<word rank='3' count='667.0'>mass</word>
+	<word rank='4' count='414.0'>identification</word>
+	<word rank='5' count='407.0'>protein</word>
+	<word rank='6' count='366.0'>spectra</word>
+	<word rank='7' count='275.0'>database</word>
+  </topic>
+  <topic id='166' alpha='0.010199690326196826' totalTokens='18381'>
+	<word rank='1' count='887.0'>phase</word>
+	<word rank='2' count='441.0'>noise</word>
+	<word rank='3' count='431.0'>feedback</word>
+	<word rank='4' count='319.0'>system</word>
+	<word rank='5' count='255.0'>transition</word>
+	<word rank='6' count='202.0'>state</word>
+	<word rank='7' count='182.0'>circadian</word>
+  </topic>
+  <topic id='167' alpha='0.012331600883536806' totalTokens='28665'>
+	<word rank='1' count='1411.0'>nanoparticles</word>
+	<word rank='2' count='963.0'>nps</word>
+	<word rank='3' count='519.0'>gold</word>
+	<word rank='4' count='485.0'>surface</word>
+	<word rank='5' count='422.0'>graphene</word>
+	<word rank='6' count='400.0'>tio</word>
+	<word rank='7' count='328.0'>silver</word>
+  </topic>
+  <topic id='168' alpha='0.011666789303219198' totalTokens='24396'>
+	<word rank='1' count='1675.0'>fluorescence</word>
+	<word rank='2' count='963.0'>fluorescent</word>
+	<word rank='3' count='636.0'>imaging</word>
+	<word rank='4' count='545.0'>probe</word>
+	<word rank='5' count='311.0'>emission</word>
+	<word rank='6' count='301.0'>detection</word>
+	<word rank='7' count='236.0'>cells</word>
+  </topic>
+  <topic id='169' alpha='0.017358437192007324' totalTokens='50406'>
+	<word rank='1' count='4587.0'>stress</word>
+	<word rank='2' count='1782.0'>tolerance</word>
+	<word rank='3' count='1404.0'>salt</word>
+	<word rank='4' count='1218.0'>response</word>
+	<word rank='5' count='1206.0'>drought</word>
+	<word rank='6' count='1028.0'>plants</word>
+	<word rank='7' count='869.0'>cold</word>
+  </topic>
+  <topic id='170' alpha='0.017370628683674387' totalTokens='48442'>
+	<word rank='1' count='3315.0'>algorithm</word>
+	<word rank='2' count='1677.0'>genetic</word>
+	<word rank='3' count='1628.0'>optimization</word>
+	<word rank='4' count='831.0'>proposed</word>
+	<word rank='5' count='771.0'>problem</word>
+	<word rank='6' count='766.0'>method</word>
+	<word rank='7' count='667.0'>based</word>
+  </topic>
+  <topic id='171' alpha='0.01298519627245699' totalTokens='29656'>
+	<word rank='1' count='772.0'>method</word>
+	<word rank='2' count='535.0'>expansion</word>
+	<word rank='3' count='410.0'>wave</word>
+	<word rank='4' count='337.0'>field</word>
+	<word rank='5' count='267.0'>frequency</word>
+	<word rank='6' count='253.0'>numerical</word>
+	<word rank='7' count='246.0'>results</word>
+  </topic>
+  <topic id='172' alpha='0.007243873951082734' totalTokens='14493'>
+	<word rank='1' count='1748.0'>protein</word>
+	<word rank='2' count='858.0'>proteins</word>
+	<word rank='3' count='764.0'>gel</word>
+	<word rank='4' count='483.0'>electrophoresis</word>
+	<word rank='5' count='335.0'>sodium</word>
+	<word rank='6' count='276.0'>kda</word>
+	<word rank='7' count='246.0'>spots</word>
+  </topic>
+  <topic id='173' alpha='0.009769989619345809' totalTokens='23399'>
+	<word rank='1' count='1642.0'>temperature</word>
+	<word rank='2' count='1277.0'>thermal</word>
+	<word rank='3' count='443.0'>stress</word>
+	<word rank='4' count='441.0'>heat</word>
+	<word rank='5' count='328.0'>expansion</word>
+	<word rank='6' count='274.0'>high</word>
+	<word rank='7' count='226.0'>coefficient</word>
+  </topic>
+  <topic id='174' alpha='0.10439115683393178' totalTokens='107801'>
+	<word rank='1' count='1539.0'>results</word>
+	<word rank='2' count='1410.0'>higher</word>
+	<word rank='3' count='1274.0'>size</word>
+	<word rank='4' count='1214.0'>number</word>
+	<word rank='5' count='1182.0'>time</word>
+	<word rank='6' count='1110.0'>found</word>
+	<word rank='7' count='1052.0'>rate</word>
+  </topic>
+  <topic id='175' alpha='0.018208019615922277' totalTokens='45072'>
+	<word rank='1' count='2557.0'>gene</word>
+	<word rank='2' count='2387.0'>expression</word>
+	<word rank='3' count='1355.0'>coli</word>
+	<word rank='4' count='1302.0'>recombinant</word>
+	<word rank='5' count='1087.0'>promoter</word>
+	<word rank='6' count='1078.0'>protein</word>
+	<word rank='7' count='1026.0'>vector</word>
+  </topic>
+  <topic id='176' alpha='0.018239623157769527' totalTokens='31110'>
+	<word rank='1' count='6243.0'>group</word>
+	<word rank='2' count='2292.0'>groups</word>
+	<word rank='3' count='1888.0'>control</word>
+	<word rank='4' count='704.0'>significantly</word>
+	<word rank='5' count='670.0'>compared</word>
+	<word rank='6' count='461.0'>treatment</word>
+	<word rank='7' count='391.0'>divided</word>
+  </topic>
+  <topic id='177' alpha='0.00843628097985617' totalTokens='22840'>
+	<word rank='1' count='632.0'>cellulose</word>
+	<word rank='2' count='467.0'>hydrolysis</word>
+	<word rank='3' count='405.0'>enzyme</word>
+	<word rank='4' count='382.0'>production</word>
+	<word rank='5' count='370.0'>biomass</word>
+	<word rank='6' count='345.0'>enzymatic</word>
+	<word rank='7' count='328.0'>reaction</word>
+  </topic>
+  <topic id='178' alpha='0.021559986268675942' totalTokens='58362'>
+	<word rank='1' count='1978.0'>species</word>
+	<word rank='2' count='1513.0'>evolution</word>
+	<word rank='3' count='1508.0'>genome</word>
+	<word rank='4' count='1486.0'>genes</word>
+	<word rank='5' count='1176.0'>gene</word>
+	<word rank='6' count='1047.0'>evolutionary</word>
+	<word rank='7' count='931.0'>genomes</word>
+  </topic>
+  <topic id='179' alpha='0.01111011236331442' totalTokens='22242'>
+	<word rank='1' count='1297.0'>drug</word>
+	<word rank='2' count='818.0'>targets</word>
+	<word rank='3' count='671.0'>target</word>
+	<word rank='4' count='580.0'>inhibitors</word>
+	<word rank='5' count='484.0'>screening</word>
+	<word rank='6' count='470.0'>compounds</word>
+	<word rank='7' count='458.0'>drugs</word>
+  </topic>
+  <topic id='180' alpha='0.010999830610766497' totalTokens='30231'>
+	<word rank='1' count='1175.0'>snps</word>
+	<word rank='2' count='919.0'>genetic</word>
+	<word rank='3' count='787.0'>snp</word>
+	<word rank='4' count='576.0'>genomic</word>
+	<word rank='5' count='530.0'>association</word>
+	<word rank='6' count='504.0'>polymorphisms</word>
+	<word rank='7' count='478.0'>variants</word>
+  </topic>
+  <topic id='181' alpha='0.0066027168007298746' totalTokens='23219'>
+	<word rank='1' count='1242.0'>markers</word>
+	<word rank='2' count='727.0'>map</word>
+	<word rank='3' count='636.0'>genetic</word>
+	<word rank='4' count='504.0'>ssr</word>
+	<word rank='5' count='442.0'>loci</word>
+	<word rank='6' count='416.0'>linkage</word>
+	<word rank='7' count='333.0'>sequence</word>
+  </topic>
+  <topic id='182' alpha='0.019319318125949243' totalTokens='50849'>
+	<word rank='1' count='1272.0'>electron</word>
+	<word rank='2' count='1186.0'>microscopy</word>
+	<word rank='3' count='824.0'>formation</word>
+	<word rank='4' count='800.0'>x-ray</word>
+	<word rank='5' count='711.0'>scanning</word>
+	<word rank='6' count='694.0'>calcium</word>
+	<word rank='7' count='598.0'>morphology</word>
+  </topic>
+  <topic id='183' alpha='0.011470314356933678' totalTokens='39122'>
+	<word rank='1' count='1747.0'>protein</word>
+	<word rank='2' count='1482.0'>prediction</word>
+	<word rank='3' count='808.0'>method</word>
+	<word rank='4' count='755.0'>proteins</word>
+	<word rank='5' count='640.0'>features</word>
+	<word rank='6' count='584.0'>methods</word>
+	<word rank='7' count='536.0'>sequence</word>
+  </topic>
+  <topic id='184' alpha='0.015216908689802298' totalTokens='31966'>
+	<word rank='1' count='2251.0'>data</word>
+	<word rank='2' count='965.0'>database</word>
+	<word rank='3' count='627.0'>information</word>
+	<word rank='4' count='534.0'>analysis</word>
+	<word rank='5' count='411.0'>software</word>
+	<word rank='6' count='370.0'>web</word>
+	<word rank='7' count='356.0'>tools</word>
+  </topic>
+  <topic id='185' alpha='0.004396966951858387' totalTokens='9108'>
+	<word rank='1' count='1175.0'>dna</word>
+	<word rank='2' count='196.0'>nucleic</word>
+	<word rank='3' count='147.0'>chiral</word>
+	<word rank='4' count='139.0'>g-quadruplex</word>
+	<word rank='5' count='137.0'>rna</word>
+	<word rank='6' count='126.0'>molecules</word>
+	<word rank='7' count='124.0'>bases</word>
+  </topic>
+  <topic id='186' alpha='0.004069863593377724' totalTokens='9706'>
+	<word rank='1' count='416.0'>copper</word>
+	<word rank='2' count='255.0'>sulfur</word>
+	<word rank='3' count='233.0'>bioleaching</word>
+	<word rank='4' count='186.0'>ferrooxidans</word>
+	<word rank='5' count='176.0'>leaching</word>
+	<word rank='6' count='173.0'>iron</word>
+	<word rank='7' count='142.0'>bacteria</word>
+  </topic>
+  <topic id='187' alpha='0.007358820469143459' totalTokens='23153'>
+	<word rank='1' count='1938.0'>cells</word>
+	<word rank='2' count='1325.0'>stem</word>
+	<word rank='3' count='1180.0'>differentiation</word>
+	<word rank='4' count='942.0'>mscs</word>
+	<word rank='5' count='810.0'>cell</word>
+	<word rank='6' count='380.0'>mesenchymal</word>
+	<word rank='7' count='365.0'>bone</word>
+  </topic>
+  <topic id='188' alpha='0.01146079629089349' totalTokens='27669'>
+	<word rank='1' count='1610.0'>dna</word>
+	<word rank='2' count='1429.0'>pcr</word>
+	<word rank='3' count='732.0'>method</word>
+	<word rank='4' count='719.0'>detection</word>
+	<word rank='5' count='589.0'>reaction</word>
+	<word rank='6' count='567.0'>amplification</word>
+	<word rank='7' count='455.0'>polymerase</word>
+  </topic>
+  <topic id='189' alpha='0.005550147292360234' totalTokens='14365'>
+	<word rank='1' count='1531.0'>apoptosis</word>
+	<word rank='2' count='586.0'>caspase</word>
+	<word rank='3' count='585.0'>cells</word>
+	<word rank='4' count='521.0'>cell</word>
+	<word rank='5' count='399.0'>death</word>
+	<word rank='6' count='328.0'>apoptotic</word>
+	<word rank='7' count='327.0'>bcl</word>
+  </topic>
+  <topic id='190' alpha='0.010264583241270235' totalTokens='24849'>
+	<word rank='1' count='995.0'>genetic</word>
+	<word rank='2' count='630.0'>diversity</word>
+	<word rank='3' count='625.0'>population</word>
+	<word rank='4' count='615.0'>populations</word>
+	<word rank='5' count='469.0'>species</word>
+	<word rank='6' count='365.0'>china</word>
+	<word rank='7' count='300.0'>variation</word>
+  </topic>
+  <topic id='191' alpha='0.008215924421760733' totalTokens='20628'>
+	<word rank='1' count='452.0'>inflammatory</word>
+	<word rank='2' count='445.0'>macrophages</word>
+	<word rank='3' count='408.0'>mmp</word>
+	<word rank='4' count='361.0'>inflammation</word>
+	<word rank='5' count='281.0'>lps</word>
+	<word rank='6' count='273.0'>immune</word>
+	<word rank='7' count='271.0'>tlr</word>
+  </topic>
+  <topic id='192' alpha='0.010773041281758109' totalTokens='28845'>
+	<word rank='1' count='1360.0'>network</word>
+	<word rank='2' count='1288.0'>interaction</word>
+	<word rank='3' count='1097.0'>protein</word>
+	<word rank='4' count='1097.0'>interactions</word>
+	<word rank='5' count='1059.0'>proteins</word>
+	<word rank='6' count='823.0'>ppi</word>
+	<word rank='7' count='750.0'>networks</word>
+  </topic>
+  <topic id='193' alpha='0.002685598700548625' totalTokens='7402'>
+	<word rank='1' count='348.0'>venom</word>
+	<word rank='2' count='205.0'>toxin</word>
+	<word rank='3' count='165.0'>sam</word>
+	<word rank='4' count='147.0'>toxins</word>
+	<word rank='5' count='121.0'>grape</word>
+	<word rank='6' count='121.0'>peptides</word>
+	<word rank='7' count='110.0'>sinensis</word>
+  </topic>
+  <topic id='194' alpha='0.011976938274782432' totalTokens='27748'>
+	<word rank='1' count='1053.0'>mass</word>
+	<word rank='2' count='872.0'>analysis</word>
+	<word rank='3' count='822.0'>spectrometry</word>
+	<word rank='4' count='763.0'>liquid</word>
+	<word rank='5' count='551.0'>chromatography</word>
+	<word rank='6' count='429.0'>metabolites</word>
+	<word rank='7' count='407.0'>compounds</word>
+  </topic>
+  <topic id='195' alpha='0.0036669279284903327' totalTokens='5875'>
+	<word rank='1' count='307.0'>laccase</word>
+	<word rank='2' count='259.0'>chinese</word>
+	<word rank='3' count='247.0'>sciences</word>
+	<word rank='4' count='243.0'>academy</word>
+	<word rank='5' count='154.0'>black</word>
+	<word rank='6' count='128.0'>institute</word>
+	<word rank='7' count='76.0'>tps</word>
+  </topic>
+  <topic id='196' alpha='0.011829088393988024' totalTokens='33256'>
+	<word rank='1' count='2444.0'>tumor</word>
+	<word rank='2' count='2395.0'>cancer</word>
+	<word rank='3' count='1033.0'>cells</word>
+	<word rank='4' count='939.0'>cell</word>
+	<word rank='5' count='661.0'>tumors</word>
+	<word rank='6' count='585.0'>growth</word>
+	<word rank='7' count='555.0'>lung</word>
+  </topic>
+  <topic id='197' alpha='0.03698113530561422' totalTokens='120258'>
+	<word rank='1' count='11679.0'>genes</word>
+	<word rank='2' count='5185.0'>expression</word>
+	<word rank='3' count='4648.0'>gene</word>
+	<word rank='4' count='3086.0'>analysis</word>
+	<word rank='5' count='2755.0'>expressed</word>
+	<word rank='6' count='2179.0'>differentially</word>
+	<word rank='7' count='1800.0'>pathways</word>
+  </topic>
+  <topic id='198' alpha='0.02085792762508102' totalTokens='45133'>
+	<word rank='1' count='4239.0'>cells</word>
+	<word rank='2' count='2704.0'>cell</word>
+	<word rank='3' count='748.0'>assay</word>
+	<word rank='4' count='710.0'>effects</word>
+	<word rank='5' count='681.0'>results</word>
+	<word rank='6' count='657.0'>effect</word>
+	<word rank='7' count='533.0'>induced</word>
+  </topic>
+  <topic id='199' alpha='0.003835341045779907' totalTokens='7875'>
+	<word rank='1' count='986.0'>skin</word>
+	<word rank='2' count='356.0'>wound</word>
+	<word rank='3' count='212.0'>hair</word>
+	<word rank='4' count='209.0'>healing</word>
+	<word rank='5' count='169.0'>dermal</word>
+	<word rank='6' count='163.0'>rubber</word>
+	<word rank='7' count='111.0'>latex</word>
+  </topic>
+</topicModel>
