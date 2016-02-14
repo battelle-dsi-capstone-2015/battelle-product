@@ -6,3 +6,4 @@
 *.sql
 __pycache__/
 .DS_Store
+play/

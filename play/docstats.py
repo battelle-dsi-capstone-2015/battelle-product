@@ -40,15 +40,26 @@ class CorpusStats:
             self.curout.execute(sql1)
             self.curout.execute(sql2)
             self.connout.commit()
+    
+    def create_table(self,table):
+        cols = ','.join([col for col in self.model[table]['cols']])
+        keys = ','.join([key for key in self.model[table]['keys']])
+        sql1 = 'DROP TABLE IF EXISTS {}'.format(table)
+        sql2 = 'CREATE TABLE {} ({},{})'.format(table,cols,keys)
+        self.curout.execute(sql1)
+        self.curout.execute(sql2)
+        self.connout.commit()
+
             
-    def topic_network(self):
+    def topic_network(self):        
+        self.create_table('topicnet')
         sql1 = '''
         SELECT a.topic_id, b.topic_id, c.doc_label, count(*) as 'n' 
-        FROM doctopic_long a 
+        FROM     doctopic_long a 
             JOIN doctopic_long b USING (doc_id)
             JOIN doc c ON (a.doc_id = c.doc_id)
             JOIN doc d ON (b.doc_id = d.doc_id)
-        WHERE a.topic_weight >= 0.1 
+        WHERE   a.topic_weight >= 0.1 
             AND b.topic_weight >= 0.1
             AND a.topic_id != b.topic_id
         GROUP BY a.topic_id, b.topic_id, c.doc_label
@@ -59,24 +70,26 @@ class CorpusStats:
         self.connout.commit()
         
     def topic_pair_singles(self):
+        self.create_table('topicpairsinglesdoc')
         
         # Grap topic pairs that appear only once in our time series
-        sql0 = '''
-        ATTACH "/lv1/battelle-dev/PRODUCT/webapp/battelle.db" AS battelle;
-        SELECT src_topic, st.topic_words as 'src_words', st.topic_alpha as 'src_alpha', dst_topic, dt.topic_words as 'dst_words', dt.topic_alpha as 'dst_alpha', count(*) as 'n' 
-        FROM "topicnet" 
-        JOIN battelle.topic st ON (src_topic = st.topic_id)
-        JOIN battelle.topic dt ON (dst_topic = dt.topic_id)
-        WHERE n = 1
-        GROUP BY src_topic, dst_topic 
-        ORDER BY (src_alpha + dst_alpha)
-        '''
+        #sql0 = '''
+        #ATTACH "/lv1/battelle-dev/PRODUCT/webapp/battelle.db" AS battelle;
+        #SELECT src_topic, st.topic_words as 'src_words', st.topic_alpha as 'src_alpha', dst_topic, dt.topic_words as 'dst_words', dt.topic_alpha as 'dst_alpha', count(*) as 'n' 
+        #FROM "topicnet" 
+        #JOIN battelle.topic st ON (src_topic = st.topic_id)
+        #JOIN battelle.topic dt ON (dst_topic = dt.topic_id)
+        #WHERE n = 1
+        #GROUP BY src_topic, dst_topic 
+        #ORDER BY (src_alpha + dst_alpha)
+        #'''
         
         sql1 = '''
         SELECT src_topic, dst_topic, count(*) as 'n' 
         FROM topicnet 
         WHERE n = 1
         GROUP BY src_topic, dst_topic 
+        ORDER BY src_topic, dst_topic
         '''
         pairs = [r[:2] for r in self.curout.execute(sql1) if r[2] == 1]
         
@@ -84,7 +97,13 @@ class CorpusStats:
         
         sql3 = "INSERT INTO topicpairsinglesdoc VALUES (?,?,?)"
         
-        for pair in pairs:
+        while len(pairs) > 0:
+            
+            print(len(pairs))
+            pair = pairs.pop(0)
+            pairs.remove((pair[1],pair[0]))
+
+            # Could filter by n = 1
             sql2 = "SELECT count(*) as 'n' FROM doctopic WHERE t{} >= 0.1 AND t{} >= 0.1".format(pair[0],pair[1])
             for r in self.curin.execute(sql2):
                 values = (pair[0],pair[1],r[0])
@@ -165,11 +184,11 @@ if __name__ == '__main__':
     cs = CorpusStats(dbin,dbout)
     
     print('(Re)creating the database')
-    cs.create_database()
+    #cs.create_database()
     #cs.topic_entropy()
     
-    print("Generating topic network")
-    cs.topic_network()
+    #print("Generating topic network")
+    #cs.topic_network()
     
     print("Getting doc counts for topic pair singles")
     cs.topic_pair_singles()

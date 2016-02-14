@@ -33,22 +33,3 @@ def create_topicword_long_table(model_db):
                 if v > 0:
                     cur2.execute("INSERT INTO topicword_long (word_id,word_str,topic_id,word_count) VALUES (?,?,?,?)",(word_id,word_str,i,v))
         conn.commit()
-'''
-def create_topicpair_table(z,model_db):
-    
-    with sqlite3.connect(model_db) as conn:
-        cur1 = conn.cursor()
-        #cur2 = conn.cursor()
-        #cur1.execute('DROP TABLE IF EXISTS topicpair')
-        #cur1.execute('CREATE TABLE topicpair (topic_id1 INTEGER, topic_id2 INTEGER, cosine_sim REAL, UNIQUE (topic_id1, topic_id2))')
-        #conn.commit()
-        for i in range(z):
-            for j in range(i+1,z):
-                sql = "SELECT  SUM(t{0} * t{1}), SUM(t{0} * t{0}), SUM(t{1} * t{1}) FROM topicword".format(i,j)
-                cur1.execute(sql)
-                r = cur1.fetchone()
-                cosine_sim = r[0] / (math.sqrt(r[1]) * math.sqrt(r[2]))
-                print(i,j,cosine_sim)
-                #cur2.execute("INSERT INTO topicpair VALUES (?,?,?)",(i,j,cosine_sim))
-        #conn.commit()
-'''
