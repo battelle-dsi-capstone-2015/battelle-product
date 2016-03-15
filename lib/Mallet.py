@@ -226,7 +226,6 @@ class Model:
                 
                 # Type B -- Topic weights in order to weight, with topic number paired
                 elif (src_type == int(self.z) * 2):
-                    # NEEDS FIXED BIGTIME
                     for i in range(int(self.z)*2,2):
                         tn = int(row[i+2])
                         tw = float(row[i+3])

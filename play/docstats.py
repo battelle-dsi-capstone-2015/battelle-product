@@ -49,7 +49,6 @@ class CorpusStats:
         self.curout.execute(sql1)
         self.curout.execute(sql2)
         self.connout.commit()
-
             
     def topic_network(self):        
         self.create_table('topicnet')

@@ -1,7 +1,6 @@
 import re, sqlite3
 from corpus import Corpus
 
-
 '''
 This corpus subclass expects to find a comma-delimitted corpus file
 with three columns -- a unique doc_id, a doc_tag, and doc_content 
