@@ -51,8 +51,8 @@ class Corpus:
                 
         print('Creating the dictionary')
         dictionary = Dictionary(doctokens)
-        dictionary.compactify()
-        dictionary.filter_extremes(keep_n=None)
+        #dictionary.compactify()
+        #dictionary.filter_extremes(keep_n=None)
         if self.dictfile:
             dictionary.save_as_text(self.dictfile+'.dict', sort_by_word=True)
 
