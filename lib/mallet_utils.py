@@ -77,10 +77,17 @@ def create_topicpair_table(model_db,stats_db):
                 percent = round(n/t,2) * 100
                 print(percent,i,j)
             conn2.commit()
+        
             
 def create_docpair_table(mode_db,stats_db):
+    # To be added 
     pass
 
+'''
+TO DO:
+-- Create a function to get topicpairs by conditional dependency for each year
+-- Create visualizations of positive, negative, and neutral dependency ...
+'''
 def create_topicpair_by_deps_table(model_db,stats_db):
     with sqlite3.connect(model_db) as conn1, sqlite3.connect(stats_db) as conn2:        
 
