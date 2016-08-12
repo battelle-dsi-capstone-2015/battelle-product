@@ -120,3 +120,40 @@ def create_topicpair_by_deps_table(model_db,stats_db):
                     
             conn2.commit()
         
+def create_topicpair_by_deps_and_year_table(model_db,stats_db):
+    
+    with sqlite3.connect(model_db) as conn1, sqlite3.connect(stats_db) as conn2:        
+
+        topics      = pd.read_sql('SELECT * FROM topic', conn1)        
+        tw_min      = 0.1
+
+        cur2 = conn2.cursor()
+        cur2.execute('DROP TABLE IF EXISTS topicpair_by_deps_and_year')
+        cur2.execute('CREATE TABLE topicpair_by_deps_and_year (year INTEGER, topic_a INTEGER, topic_b INTEGER, p_a REAL, p_b REAL, p_ab REAL, p_aGb REAL, p_bGa REAL)')
+        conn2.commit() 
+        
+        for year in range(2005,2016):
+            
+            print(year)
+            
+            doctopics = pd.read_sql("SELECT * FROM doctopic WHERE doc_label = '{}'".format(year), conn1)
+            n   = doctopics.doc_id.count()
+            z   = topics.topic_id.count()
+
+            for i in range(z):
+                sel_i = doctopics['t{}'.format(i)] >= tw_min
+                n_i = doctopics[sel_i].doc_id.count()    
+                p_i = n_i / n
+            
+                for j in range(i+1,z):
+                    sel_j = doctopics['t{}'.format(j)] >= tw_min
+                    n_j = doctopics[sel_j].doc_id.count()
+                    p_j = n_j / n
+                    n_ij = doctopics[sel_i & sel_j].doc_id.count()
+                    p_iAj = n_ij / n
+                    p_jGi = n_ij / n_i
+                    p_iGj = n_ij / n_j
+                    cur2.execute('INSERT INTO topicpair_by_deps_and_year (year, topic_a, topic_b, p_a, p_b, p_ab, p_aGb, p_bGa) VALUES (?,?,?,?,?,?,?,?)',(year,i,j,p_i,p_j,p_iAj,p_iGj,p_jGi))
+                        
+                conn2.commit()
+
